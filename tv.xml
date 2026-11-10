@@ -437,14 +437,6 @@
 	<programme start="20261110095000 +0000" stop="20261110112500 +0000" channel="CelestialMovies">
 		<title lang="en">Mother Vs Mother</title>
 	</programme>
-	<programme start="20261110112500 +0000" stop="20261110130000 +0000" channel="CelestialMovies">
-		<title lang="en">Shark Busters (Celestial Movies)</title>
-		<desc lang="en">Diterpa badai media atas utangnya yang menumpuk, seorang petugas polisi memimpin penyelidikan terhadap para rentenir di balik skema kredit yang jahat.</desc>
-	</programme>
-	<programme start="20261110130000 +0000" stop="20261110151500 +0000" channel="CelestialMovies">
-		<title lang="en">Let The Bullets Fly (Celestial Movies)</title>
-		<desc lang="en">Di Tiongkok tahun 1920-an, seorang bandit tiba di sebuah kota provinsi terpencil dengan menyamar sebagai walikota baru, di mana ia berhadapan dengan seorang bangsawan lokal yang tirani.</desc>
-	</programme>
 	<programme start="20261110151500 +0000" stop="20261110163500 +0000" channel="CelestialMovies">
 		<title lang="en">Seeding Of A Ghost</title>
 		<desc lang="en">Kehidupan seorang sopir taksi Hong Kong berubah mengerikan setelah secara tidak sengaja menabrak seorang penyihir dengan taksinya. Dia memutuskan untuk meminta bantuan penyihir tersebut untuk membalikkan kutukan kepada musuh-musuhnya dengan mengorbankan nyawanya sendiri.</desc>
@@ -786,21 +778,9 @@
 	<programme start="20261110064500 +0000" stop="20261110083500 +0000" channel="TVNMovies">
 		<title lang="en">Devils</title>
 	</programme>
-	<programme start="20261110083500 +0000" stop="20261110103000 +0000" channel="TVNMovies">
-		<title lang="en">Office (tvN Movies)</title>
-		<desc lang="en">Penyelidikan setelah seorang manajer penjualan membunuh seluruh keluarganya secara brutal mengarah pada serangkaian misteri dan tragedi di tengah tim kerja yang kewalahan di Seoul.</desc>
-	</programme>
-	<programme start="20261110103000 +0000" stop="20261110122000 +0000" channel="TVNMovies">
-		<title lang="en">Following (tvN Movies)</title>
-		<desc lang="en">Sebuah film thriller misteri tentang seorang agen real estat yang diam-diam memasuki rumah klien dan terobsesi dengan seorang influencer media sosial yang suka menipu. Film ini mengeksplorasi tema obsesi, identitas, dan sisi gelap media sosial.</desc>
-	</programme>
 	<programme start="20261110122000 +0000" stop="20261110140000 +0000" channel="TVNMovies">
 		<title lang="en">The Noisy Mansion (tvN Movies)</title>
 		<desc lang="en">Geo-Wool pindah setelah bertengkar dengan saudara laki-lakinya, Du-On. Di apartemen barunya di Baekse, dia mendengar suara-suara misterius di lantai pada pukul 4 pagi. Karena tidak bisa tidur, dia dan tetangganya menyelidiki sumber suara tersebut.</desc>
-	</programme>
-	<programme start="20261110140000 +0000" stop="20261110160500 +0000" channel="TVNMovies">
-		<title lang="en">A Melody To Remember (tvN Movies)</title>
-		<desc lang="en">Selama Perang Korea, Letnan Dua Sang-Yeol bertemu sekelompok anak yatim piatu saat memimpin peletonnya. Berempati dengan penderitaan mereka, ia membentuk paduan suara bersama anak-anak untuk melindungi mereka.</desc>
 	</programme>
 	<programme start="20261110160500 +0000" stop="20261110180000 +0000" channel="TVNMovies">
 		<title lang="en">My Love, My Bride</title>
@@ -4403,15 +4383,6 @@
 	<programme start="20261110060000 +0000" stop="20261110063000 +0000" channel="ZooMoo">
 		<title lang="en">ZooMoo's Wild Friends, Ep 56</title>
 	</programme>
-	<programme start="20261110063000 +0000" stop="20261110070000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 57</title>
-	</programme>
-	<programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 58</title>
-	</programme>
-	<programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 59</title>
-	</programme>
 	<programme start="20261110080000 +0000" stop="20261110083000 +0000" channel="ZooMoo">
 		<title lang="en">ZooMoo's Wild Friends, Ep 52</title>
 	</programme>
@@ -4426,15 +4397,6 @@
 	</programme>
 	<programme start="20261110100000 +0000" stop="20261110103000 +0000" channel="ZooMoo">
 		<title lang="en">ZooMoo's Wild Friends, Ep 56</title>
-	</programme>
-	<programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 57</title>
-	</programme>
-	<programme start="20261110110000 +0000" stop="20261110113000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 58</title>
-	</programme>
-	<programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="ZooMoo">
-		<title lang="en">ZooMoo's Wild Friends, Ep 59</title>
 	</programme>
 	<programme start="20261110120000 +0000" stop="20261110121500 +0000" channel="ZooMoo">
 		<title lang="en">Jelly Jamm S1, Ep 31</title>
@@ -6985,10 +6947,6 @@
 		<title lang="en">The Adv. Of Rocky &amp; Bullwinkle</title>
 		<desc lang="en">Duo tupai dan rusa besar Jay Ward kembali dalam seri baru ini, bersama saingannya Boris dan Natasha serta Fearless Leader.</desc>
 	</programme>
-	<programme start="20261110091500 +0000" stop="20261110094000 +0000" channel="DreamWorks">
-		<title lang="en">The Croods: Family Tree (DreamWorks)</title>
-		<desc lang="en">Cerita ini melanjutkan kisah keluarga Croods dan Bettermans yang terus berkembang saat mereka belajar untuk hidup bersama di pertanian paling sepi di zaman prasejarah.</desc>
-	</programme>
 	<programme start="20261110130000 +0000" stop="20261110132500 +0000" channel="DreamWorks">
 		<title lang="en">The Epic Tales Of Captain...</title>
 		<desc lang="en">Sahabat George dan Harold merencanakan sejumlah lelucon di sekolah yang melibatkan kepala sekolah mereka, yang alter egonya adalah pahlawan super yang mereka ciptakan bernama Captain Underpants.</desc>
@@ -7611,10 +7569,6 @@
 		<title lang="en">DMD Panggung Rezeki</title>
 		<desc lang="en">Menghadirkan variety show terbaru bertajuk DMD Panggung Rezeki (Dangdut Mania Dadakan). Program ini mencari penyanyi dengan konsep dadakan dengan hadiah jutaan rupiah.</desc>
 	</programme>
-	<programme start="20261110130000 +0000" stop="20261110143000 +0000" channel="Entertainment">
-		<title lang="en">RCTI Music Fest</title>
-		<desc lang="en">Festival musik yang di adakan di RCTI dengan mengundang banyak bintang tamu dan penyanyi kelas atas indonesia</desc>
-	</programme>
 	<programme start="20261110143000 +0000" stop="20261110153000 +0000" channel="Entertainment">
 		<title lang="en">Dibalik Kisah Misteri</title>
 		<desc lang="en">Program yang menyuguhkan informasi antara fakta bercampur mitos. Misteri sejumlah tempat yang tidak mampu diungkap. Ragam kejadian diluar nalar menelan korban jiwa.</desc>
@@ -7838,10 +7792,6 @@
 		<title lang="en">My Bias, My Boss, Ep 9 (tvN)</title>
 		<desc lang="en">Sebuah komedi romantis tentang Nam Da Reum, yang bergabung dengan sebuah perusahaan yang dipimpin oleh mantan idola yang kini menjadi CEO, Lee Chan, dan tanpa diduga terlibat dalam kisah asmara dengan bos perusahaan tersebut, Kang Ha Gi.</desc>
 	</programme>
-	<programme start="20261110143000 +0000" stop="20261110155000 +0000" channel="TVN">
-		<title lang="en">Sixth Sense: B-Side, Ep 7 (tvN)</title>
-		<desc lang="en">Setiap perjalanan menjelajahi destinasi yang sedang tren di media sosial menyimpan satu tempat palsu yang dibuat oleh tim produksi! Bergabunglah dengan para “Sixth Sensers” di musim terbaru dan tantang kemampuanmu untuk membedakan tempat yang palsu dari yang nyata.</desc>
-	</programme>
 	<programme start="20261110155000 +0000" stop="20261110173000 +0000" channel="TVN">
 		<title lang="en">GBRB: Joy Pops Laugh..., Ep 5</title>
 		<desc lang="en">Sebuah spin-off dari “GBRB Spinoff: Cafeteria Operation,” di mana karyawan KKPP Food berhasil menyelesaikan misi mereka dan mendapatkan kesempatan untuk pergi ke luar negeri dalam rangka perjalanan wawasan untuk membantu perusahaan berkembang.</desc>
@@ -8060,14 +8010,6 @@
 	<programme start="20261110114000 +0000" stop="20261110130000 +0000" channel="Kix">
 		<title lang="en">Live And Die In East LA</title>
 		<desc lang="en">Setelah seorang dokter unit gawat darurat (UGD) merawat seorang anak laki-laki yang terluka, ia terseret ke dalam dunia geng dan kekerasan jalanan yang menguasai sisi gelap Los Angeles.</desc>
-	</programme>
-	<programme start="20261110130000 +0000" stop="20261110143500 +0000" channel="Kix">
-		<title lang="en">The Monkey Is Back (KIX)</title>
-		<desc lang="en">Bertahun-tahun kemudian, dalam pertempuran sengit dengan Dewa Perang bermata tiga, Raja Kera hancur dan jatuh ke dunia fana. Raja Kera menyadari keselamatan dirinya di bawah konspirasi Mu Shen Jumang untuk mendatangkan bencana ke dunia.</desc>
-	</programme>
-	<programme start="20261110143500 +0000" stop="20261110161000 +0000" channel="Kix">
-		<title lang="en">My Date With A Vampire (KIX)</title>
-		<desc lang="en">Pemburu iblis Ma Siu Ling memecahkan misteri supranatural dan melawan roh jahat. Selama penyelidikannya, ia bertemu dengan detektif misterius Fong, yang masa lalunya yang tersembunyi terkait dengan takdir kelam. Meskipun awalnya saling tidak percaya, keduanya menjadi sekutu dan bergabung untuk menghadapi kejahatan mengerikan yang mengancam kota.</desc>
 	</programme>
 	<programme start="20261110161000 +0000" stop="20261110164000 +0000" channel="Kix">
 		<title lang="en">Extreme Ends, Ep 2</title>
@@ -9111,12 +9053,8 @@
 		<title lang="en">I Dream Of Jeannie S5, Ep 7</title>
 		<desc lang="en">Jeannie dan Tony menikah, namun kehidupan rumah tangga mereka tak lepas dari kekacauan magis. Jeannie terus menciptakan keajaiban yang kocak, membuat Tony repot menjaga rahasia mereka.</desc>
 	</programme>
-	<programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="Hits">
-		<title lang="en">Frasier S8, Ep 16</title>
-		<desc lang="en">Musim kedelapan mengikuti kehidupan Frasier dan keluarganya di Seattle. Niles dan Daphne menghadapi masalah setelah mengungkapkan hubungan mereka, sementara Frasier menghadapi berbagai persoalan dalam pekerjaan, keluarga, dan kehidupan percintaannya.</desc>
-	</programme>
-	<programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="Hits">
-		<title lang="en">Mission Impossible S4, Ep 1</title>
+	<programme start="20261111103000 +0000" stop="20261111120000 +0000" channel="Hits">
+		<title lang="en">T. J. Hooker S1, Ep 1</title>
 	</programme>
 	<programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="Hits">
 		<title lang="en">I Dream Of Jeannie S5, Ep 8</title>
@@ -9154,18 +9092,15 @@
 	<programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="Hits">
 		<title lang="en">Murder, She Wrote S10, Ep 7</title>
 	</programme>
-	<programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="Hits">
-		<title lang="en">Mission Impossible S4, Ep 1</title>
+	<programme start="20261111200000 +0000" stop="20261111213000 +0000" channel="Hits">
+		<title lang="en">T. J. Hooker S1, Ep 1</title>
 	</programme>
-	<programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="Hits">
+	<programme start="20261111213000 +0000" stop="20261111223000 +0000" channel="Hits">
 		<title lang="en">Beverly Hills 90210 S1, Ep 5</title>
 		<desc lang="en">Serial ini mengikuti kehidupan sekelompok teman yang tinggal di daerah Beverly Hills yang kaya dan penuh privasi di Los Angeles, California, saat mereka bertransisi dari sekolah menengah atas ke perguruan tinggi dan kemudian ke dunia dewasa.</desc>
 	</programme>
-	<programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="Hits">
+	<programme start="20261111223000 +0000" stop="20261111233000 +0000" channel="Hits">
 		<title lang="en">Murder, She Wrote S10, Ep 7</title>
-	</programme>
-	<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="Hits">
-		<title lang="en">Married With Children S4, Ep 20</title>
 	</programme>
 	<programme start="20261111233000 +0000" stop="20261112003000 +0000" channel="Hits">
 		<title lang="en">Xena: Warrior... S1, Ep 5</title>
@@ -9179,16 +9114,12 @@
 		<title lang="en">Xena: Warrior... S1, Ep 6</title>
 		<desc lang="en">Xena, seorang Putri Pejuang yang perkasa dengan masa lalu yang kelam, bertekad untuk menebus kesalahannya. Ia ditemani oleh Gabrielle, seorang penyanyi dari kota kecil. Bersama-sama mereka menjelajahi dunia kuno dan berjuang demi kebaikan bersama melawan Panglima Perang dan Dewa yang kejam.</desc>
 	</programme>
-	<programme start="20261112013000 +0000" stop="20261112023000 +0000" channel="Hits">
-		<title lang="en">Mission Impossible S4, Ep 1</title>
+	<programme start="20261112013000 +0000" stop="20261112030000 +0000" channel="Hits">
+		<title lang="en">T. J. Hooker S1, Ep 1</title>
 	</programme>
-	<programme start="20261112023000 +0000" stop="20261112033000 +0000" channel="Hits">
+	<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="Hits">
 		<title lang="en">Beverly Hills 90210 S1, Ep 5</title>
 		<desc lang="en">Serial ini mengikuti kehidupan sekelompok teman yang tinggal di daerah Beverly Hills yang kaya dan penuh privasi di Los Angeles, California, saat mereka bertransisi dari sekolah menengah atas ke perguruan tinggi dan kemudian ke dunia dewasa.</desc>
-	</programme>
-	<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Hits">
-		<title lang="en">I Dream Of Jeannie S5, Ep 8</title>
-		<desc lang="en">Jeannie dan Tony menikah, namun kehidupan rumah tangga mereka tak lepas dari kekacauan magis. Jeannie terus menciptakan keajaiban yang kocak, membuat Tony repot menjaga rahasia mereka.</desc>
 	</programme>
 	<programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="Hits">
 		<title lang="en">Frasier S8, Ep 17</title>
@@ -9224,7 +9155,7 @@
 		<desc lang="en">Musim kedelapan mengikuti kehidupan Frasier dan keluarganya di Seattle. Niles dan Daphne menghadapi masalah setelah mengungkapkan hubungan mereka, sementara Frasier menghadapi berbagai persoalan dalam pekerjaan, keluarga, dan kehidupan percintaannya.</desc>
 	</programme>
 	<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="Hits">
-		<title lang="en">Mission Impossible S4, Ep 2</title>
+		<title lang="en">T. J. Hooker S1, Ep 2</title>
 	</programme>
 	<programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Hits">
 		<title lang="en">I Dream Of Jeannie S5, Ep 9</title>
@@ -9263,7 +9194,7 @@
 		<title lang="en">Murder, She Wrote S10, Ep 8</title>
 	</programme>
 	<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="Hits">
-		<title lang="en">Mission Impossible S4, Ep 2</title>
+		<title lang="en">T. J. Hooker S1, Ep 2</title>
 	</programme>
 	<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="Hits">
 		<title lang="en">Beverly Hills 90210 S1, Ep 6</title>
@@ -9615,10 +9546,6 @@
 	<programme start="20261110051500 +0000" stop="20261110054000 +0000" channel="Lifetime">
 		<title lang="en">Rachael Ray In Tuscany, Ep 15</title>
 	</programme>
-	<programme start="20261110054000 +0000" stop="20261110072000 +0000" channel="Lifetime">
-		<title lang="en">My Husband's Seven Wives</title>
-		<desc lang="en">Maggie terkejut saat bertemu dengan seorang wanita yang juga mengaku istri dari suaminya, Alan. Awalnya sebagai saingan, mereka segera mengungkap jaringan kebohongan yang melibatkan Alan dan banyak istri yang telah ia tipu sebelumnya</desc>
-	</programme>
 	<programme start="20261110072000 +0000" stop="20261110074500 +0000" channel="Lifetime">
 		<title lang="en">Pet Telling, Ep 2</title>
 	</programme>
@@ -9668,14 +9595,6 @@
 	<programme start="20261110163500 +0000" stop="20261110173500 +0000" channel="Lifetime">
 		<title lang="en">Dr. Pimple: Breaking S2, Ep 12</title>
 		<desc lang="en">berjanji akan mengupas kisah pribadi tiga orang yang menghadapi masalah kulit yang unik.</desc>
-	</programme>
-	<programme start="20261110173500 +0000" stop="20261110183500 +0000" channel="Lifetime">
-		<title lang="en">Hit-And-Miss Tour S1, Ep 19</title>
-		<desc lang="en">Lima sahabat selebriti melakukan perjalanan bersama; di setiap pemberhentian tempat mereka harus menghabiskan uang, mereka memainkan permainan untuk menentukan siapa yang menanggung semua biaya.</desc>
-	</programme>
-	<programme start="20261110183500 +0000" stop="20261110202000 +0000" channel="Lifetime">
-		<title lang="en">My Husband's Seven Wives</title>
-		<desc lang="en">Maggie terkejut saat bertemu dengan seorang wanita yang juga mengaku istri dari suaminya, Alan. Awalnya sebagai saingan, mereka segera mengungkap jaringan kebohongan yang melibatkan Alan dan banyak istri yang telah ia tipu sebelumnya</desc>
 	</programme>
 	<programme start="20261110202000 +0000" stop="20261110220500 +0000" channel="Lifetime">
 		<title lang="en">The Beach House Murders</title>
@@ -10497,10 +10416,6 @@
 		<title lang="en">Law &amp; Order: SVU S28, Ep 4</title>
 		<desc lang="en">Late Night With Seth Meyers yang diproduseri oleh pemenang penghargaan Emmy, Lorne Michaels, akan menjamu para bintang papan atas, menghadirkan aksi komedi yang tak terlupakan, dan bakat musik terbaik.</desc>
 	</programme>
-	<programme start="20261110100500 +0000" stop="20261110113000 +0000" channel="RockEntertainment">
-		<title lang="en">The Triangle, Pt 2</title>
-		<desc lang="en">Tim tersebut ditangkap oleh orang-orang berpakaian hitam dan kemudian dibebaskan. Howard dan Stan mencari kakek dari korban selamat kecelakaan pesawat, sementara Bruce dan Emily mencari sumber anomali di Segitiga Bermuda. Meeno yang kebingungan menjadi ingin bunuh diri.</desc>
-	</programme>
 	<programme start="20261110113000 +0000" stop="20261110121500 +0000" channel="RockEntertainment">
 		<title lang="en">The Librarians: Chapter, Ep 10</title>
 		<desc lang="en">Mengisahkan seorang pustakawan penjelajah waktu dari masa lalu yang tanpa sengaja terjebak di masa kini. Kini ia harus memimpin tim pustakawan baru untuk membereskan kekacauan yang ia sebabkan setelah sihir tersebar ke seluruh benua.</desc>
@@ -10824,10 +10739,6 @@
 	<programme start="20261110070500 +0000" stop="20261110092000 +0000" channel="RockAction">
 		<title lang="en">L.A. Confidential (Rock Action)</title>
 		<desc lang="en">Seiring meningkatnya korupsi di Los Angeles tahun 1950-an, tiga polisi—satu yang taat aturan, satu yang brutal, dan satu yang bejat menyelidiki serangkaian pembunuhan dengan cara keadilan mereka sendiri.</desc>
-	</programme>
-	<programme start="20261110092000 +0000" stop="20261110112500 +0000" channel="RockAction">
-		<title lang="en">Windows (Rock Action)</title>
-		<desc lang="en">Tujuh orang yang terasing berkumpul dalam sebuah pertunjukan aneh di halaman sekolah yang terbengkalai. Kita diajak menyelami dunia dan ritual yang mereka ciptakan selama malam-malam musim panas yang terang, ketika masyarakat umum menutup diri dari kehidupan sehari-hari.</desc>
 	</programme>
 	<programme start="20261110112500 +0000" stop="20261110125500 +0000" channel="RockAction">
 		<title lang="en">Enter The Game Of Death</title>
@@ -14117,7 +14028,11 @@
 		<title lang="en">The Prime Show (iNews)</title>
 		<desc lang="en">Program talk show yang akan menelusuri dan membahas isu-isu terkini yang tidak diketahui oleh orang lain secara tuntas dan eksklusif bersama narasumber-narsumber menarik.</desc>
 	</programme>
-	<programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="iNews">
+	<programme start="20261111140000 +0000" stop="20261111140500 +0000" channel="iNews">
+		<title lang="en">iNews Update (L)</title>
+		<desc lang="en">Program berita yang menyajikan perkembangan terbaru dari berbagai peristiwa penting, baik nasional maupun internasional.</desc>
+	</programme>
+	<programme start="20261111140500 +0000" stop="20261111150000 +0000" channel="iNews">
 		<title lang="en">iNews Prime (L)</title>
 		<desc lang="en">Program berita dari iNews yang membagikan informasi terbaru yang diulas mendalam dari berbagai perspektif serta dialog dengan narasumber kompeten.</desc>
 	</programme>
@@ -14281,190 +14196,204 @@
 		<desc lang="en">Program berita yang menyajikan perkembangan terbaru dari berbagai peristiwa penting, baik nasional maupun internasional.</desc>
 	</programme>
 	<programme start="20261109234500 +0000" stop="20261110013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: MYA Vs IDN</title>
+		<desc lang="en">Myanmar menghadapi Indonesia dalam laga persahabatan spesial, menampilkan gol, taktik, dan performa timnas.</desc>
 	</programme>
 	<programme start="20261110013000 +0000" stop="20261110033000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: AZE Vs LIE</title>
+		<desc lang="en">Azerbaijan berusaha memanfaatkan kecepatan serangan dan keuntungan bermain di kandang, sementara Liechtenstein mengandalkan pertahanan disiplin dan kerja sama tim untuk menghadapi lawannya.</desc>
 	</programme>
 	<programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
 	<programme start="20261110040000 +0000" stop="20261110060000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Elite 2026/27</title>
-		<desc lang="en">AFC Champions League Elite 2026/27 menghadirkan klub-klub unggulan Asia yang bersaing melalui disiplin taktik, kualitas individu, dan kreativitas serangan untuk memperebutkan gelar juara Asia.</desc>
+		<title lang="en">ACL 2026/27: POH Vs GAM</title>
+		<desc lang="en">Pohang Steelers mengandalkan permainan fisik dan kerja sama tim yang terorganisasi, sementara Gamba Osaka membawa kemampuan teknik dan kombinasi serangan cepat dalam pertandingan ini.</desc>
 	</programme>
 	<programme start="20261110060000 +0000" stop="20261110080000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: IDN Vs LAO</title>
+		<desc lang="en">Timnas Spesial: IDN Vs LAO mempertemukan Indonesia dengan Laos yang akan mengandalkan permainan menyerang, disiplin, dan organisasi taktik.</desc>
 	</programme>
 	<programme start="20261110080000 +0000" stop="20261110100000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: DEN Vs POR</title>
+		<desc lang="en">UNL: DEN Vs POR mempertemukan Denmark yang mengandalkan permainan kolektif, pressing dan serangan dari sisi sayap dengan Portugal yang memiliki kreativitas, pengalaman serta kualitas individu di lini serang.</desc>
 	</programme>
 	<programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="SoccerChannel">
 		<title lang="en">Sikat Tipis</title>
 		<desc lang="en">Sikat Tipis menghadirkan berbagai tantangan dan persaingan dalam format hiburan yang ringan. Para peserta menghadapi tugas-tugas tak terduga yang menguji kemampuan, reaksi, dan keberanian mereka, menghasilkan momen lucu serta persaingan seru bagi penonton.</desc>
 	</programme>
-	<programme start="20261110110000 +0000" stop="20261110124500 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+	<programme start="20261110110000 +0000" stop="20261110130000 +0000" channel="SoccerChannel">
+		<title lang="en">Shopee Cup 26/27: POR Vs PSB</title>
+		<desc lang="en">Port FC mengandalkan kreativitas serangan, kombinasi cepat, dan dukungan kandang, sementara Persib Bandung memiliki disiplin taktik, kerja sama solid, serta serangan balik berbahaya dalam laga regional ini.</desc>
 	</programme>
-	<programme start="20261110124500 +0000" stop="20261110143000 +0000" channel="SoccerChannel">
-		<title lang="en">Pro Futsal League IDN 2026/27</title>
-		<desc lang="en">Klub-klub futsal terbaik Indonesia bersaing memperebutkan gelar juara nasional. Umpan cepat, kemampuan teknik, tekanan agresif, dan kerja sama taktik menjadi kekuatan utama sepanjang musim 2026/27.</desc>
+	<programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="SoccerChannel">
+		<title lang="en">Magazine UEFA Nations League</title>
+		<desc lang="en">Majalah UEFA Nations League adalah publikasi yang menampilkan berita, ulasan, dan analisis terkait turnamen UEFA Nations League.</desc>
+	</programme>
+	<programme start="20261110133000 +0000" stop="20261110143000 +0000" channel="SoccerChannel">
+		<title lang="en">Sikat Tipis</title>
+		<desc lang="en">Sikat Tipis menghadirkan berbagai tantangan dan persaingan dalam format hiburan yang ringan. Para peserta menghadapi tugas-tugas tak terduga yang menguji kemampuan, reaksi, dan keberanian mereka, menghasilkan momen lucu serta persaingan seru bagi penonton.</desc>
 	</programme>
 	<programme start="20261110143000 +0000" stop="20261110163000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: IDN Vs LAO</title>
+		<desc lang="en">Timnas Spesial: IDN Vs LAO mempertemukan Indonesia dengan Laos yang akan mengandalkan permainan menyerang, disiplin, dan organisasi taktik.</desc>
 	</programme>
 	<programme start="20261110163000 +0000" stop="20261110183000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: DEN Vs POR</title>
+		<desc lang="en">UNL: DEN Vs POR mempertemukan Denmark yang mengandalkan permainan kolektif, pressing dan serangan dari sisi sayap dengan Portugal yang memiliki kreativitas, pengalaman serta kualitas individu di lini serang.</desc>
 	</programme>
 	<programme start="20261110183000 +0000" stop="20261110190000 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
 	<programme start="20261110190000 +0000" stop="20261110210000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Elite 2026/27</title>
-		<desc lang="en">AFC Champions League Elite 2026/27 menghadirkan klub-klub unggulan Asia yang bersaing melalui disiplin taktik, kualitas individu, dan kreativitas serangan untuk memperebutkan gelar juara Asia.</desc>
+		<title lang="en">ACL 2026/27: POH Vs GAM</title>
+		<desc lang="en">Pohang Steelers mengandalkan permainan fisik dan kerja sama tim yang terorganisasi, sementara Gamba Osaka membawa kemampuan teknik dan kombinasi serangan cepat dalam pertandingan ini.</desc>
 	</programme>
 	<programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="SoccerChannel">
 		<title lang="en">Sikat Tipis</title>
 		<desc lang="en">Sikat Tipis menghadirkan berbagai tantangan dan persaingan dalam format hiburan yang ringan. Para peserta menghadapi tugas-tugas tak terduga yang menguji kemampuan, reaksi, dan keberanian mereka, menghasilkan momen lucu serta persaingan seru bagi penonton.</desc>
 	</programme>
 	<programme start="20261110220000 +0000" stop="20261110234500 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+		<title lang="en">Shopee Cup 26/27: POR Vs PSB</title>
+		<desc lang="en">Port FC mengandalkan kreativitas serangan, kombinasi cepat, dan dukungan kandang, sementara Persib Bandung memiliki disiplin taktik, kerja sama solid, serta serangan balik berbahaya dalam laga regional ini.</desc>
 	</programme>
 	<programme start="20261110234500 +0000" stop="20261111013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: IDN Vs LAO</title>
+		<desc lang="en">Timnas Spesial: IDN Vs LAO mempertemukan Indonesia dengan Laos yang akan mengandalkan permainan menyerang, disiplin, dan organisasi taktik.</desc>
 	</programme>
 	<programme start="20261110234500 +0000" stop="20261111013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: IDN Vs LAO</title>
+		<desc lang="en">Timnas Spesial: IDN Vs LAO mempertemukan Indonesia dengan Laos yang akan mengandalkan permainan menyerang, disiplin, dan organisasi taktik.</desc>
 	</programme>
 	<programme start="20261111013000 +0000" stop="20261111033000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: DEN Vs POR</title>
+		<desc lang="en">UNL: DEN Vs POR mempertemukan Denmark yang mengandalkan permainan kolektif, pressing dan serangan dari sisi sayap dengan Portugal yang memiliki kreativitas, pengalaman serta kualitas individu di lini serang.</desc>
 	</programme>
 	<programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
 	<programme start="20261111040000 +0000" stop="20261111060000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Elite 2026/27</title>
-		<desc lang="en">AFC Champions League Elite 2026/27 menghadirkan klub-klub unggulan Asia yang bersaing melalui disiplin taktik, kualitas individu, dan kreativitas serangan untuk memperebutkan gelar juara Asia.</desc>
+		<title lang="en">ACL 2026/27: BUR Vs KAS</title>
+		<desc lang="en">Buriram United berusaha memanfaatkan dukungan suporter dan intensitas serangan, sementara Kashima Antlers mengandalkan disiplin taktik dan pemain berpengalaman untuk bersaing.</desc>
 	</programme>
 	<programme start="20261111060000 +0000" stop="20261111080000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: VIE Vs IDN</title>
+		<desc lang="en">Timnas Spesial: VIE Vs IDN mempertemukan Vietnam yang mengandalkan organisasi permainan, kecepatan serangan dan kreativitas lini depan dengan Indonesia yang memiliki transisi cepat, agresivitas serta kekuatan pemain muda.</desc>
 	</programme>
 	<programme start="20261111080000 +0000" stop="20261111100000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: GER Vs SRB</title>
+		<desc lang="en">Jerman membawa kualitas teknik dan permainan menyerang yang terkoordinasi, sementara Serbia mengandalkan kekuatan fisik, kemampuan duel udara, dan penyerang berbahaya untuk menghadapi tuan rumah.</desc>
 	</programme>
 	<programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="SoccerChannel">
 		<title lang="en">Top Goals</title>
 		<desc lang="en">Top Goals adalah sebuah program tayangan olahraga yang menampilkan kumpulan gol-gol terbaik dari berbagai pertandingan sepak bola, baik dari liga domestik maupun internasional.</desc>
 	</programme>
 	<programme start="20261111103000 +0000" stop="20261111123000 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+		<title lang="en">Shopee Cup 26/27: JDT Vs SVR</title>
+		<desc lang="en">Johor Darul Ta'zim dari Malaysia mengandalkan dominasi serangan, kualitas teknik, dan pengalaman Asia, sementara Svay Rieng dari Kamboja memiliki permainan energik, transisi cepat, serta pertahanan gigih.</desc>
 	</programme>
 	<programme start="20261111123000 +0000" stop="20261111143000 +0000" channel="SoccerChannel">
 		<title lang="en">Pro Futsal League IDN 2026/27</title>
 		<desc lang="en">Klub-klub futsal terbaik Indonesia bersaing memperebutkan gelar juara nasional. Umpan cepat, kemampuan teknik, tekanan agresif, dan kerja sama taktik menjadi kekuatan utama sepanjang musim 2026/27.</desc>
 	</programme>
 	<programme start="20261111143000 +0000" stop="20261111163000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: VIE Vs IDN</title>
+		<desc lang="en">Timnas Spesial: VIE Vs IDN mempertemukan Vietnam yang mengandalkan organisasi permainan, kecepatan serangan dan kreativitas lini depan dengan Indonesia yang memiliki transisi cepat, agresivitas serta kekuatan pemain muda.</desc>
 	</programme>
 	<programme start="20261111163000 +0000" stop="20261111183000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: GER Vs SRB</title>
+		<desc lang="en">Jerman membawa kualitas teknik dan permainan menyerang yang terkoordinasi, sementara Serbia mengandalkan kekuatan fisik, kemampuan duel udara, dan penyerang berbahaya untuk menghadapi tuan rumah.</desc>
 	</programme>
 	<programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
 	<programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Elite 2026/27</title>
-		<desc lang="en">AFC Champions League Elite 2026/27 menghadirkan klub-klub unggulan Asia yang bersaing melalui disiplin taktik, kualitas individu, dan kreativitas serangan untuk memperebutkan gelar juara Asia.</desc>
+		<title lang="en">ACL 2026/27: BUR Vs KAS</title>
+		<desc lang="en">Buriram United berusaha memanfaatkan dukungan suporter dan intensitas serangan, sementara Kashima Antlers mengandalkan disiplin taktik dan pemain berpengalaman untuk bersaing.</desc>
 	</programme>
 	<programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="SoccerChannel">
 		<title lang="en">Top Goals</title>
 		<desc lang="en">Top Goals adalah sebuah program tayangan olahraga yang menampilkan kumpulan gol-gol terbaik dari berbagai pertandingan sepak bola, baik dari liga domestik maupun internasional.</desc>
 	</programme>
 	<programme start="20261111213000 +0000" stop="20261111233000 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+		<title lang="en">Shopee Cup 26/27: JDT Vs SVR</title>
+		<desc lang="en">Johor Darul Ta'zim dari Malaysia mengandalkan dominasi serangan, kualitas teknik, dan pengalaman Asia, sementara Svay Rieng dari Kamboja memiliki permainan energik, transisi cepat, serta pertahanan gigih.</desc>
 	</programme>
 	<programme start="20261111233000 +0000" stop="20261112013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: VIE Vs IDN</title>
+		<desc lang="en">Timnas Spesial: VIE Vs IDN mempertemukan Vietnam yang mengandalkan organisasi permainan, kecepatan serangan dan kreativitas lini depan dengan Indonesia yang memiliki transisi cepat, agresivitas serta kekuatan pemain muda.</desc>
 	</programme>
 	<programme start="20261111233000 +0000" stop="20261112013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: VIE Vs IDN</title>
+		<desc lang="en">Timnas Spesial: VIE Vs IDN mempertemukan Vietnam yang mengandalkan organisasi permainan, kecepatan serangan dan kreativitas lini depan dengan Indonesia yang memiliki transisi cepat, agresivitas serta kekuatan pemain muda.</desc>
 	</programme>
 	<programme start="20261112013000 +0000" stop="20261112033000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: GER Vs SRB</title>
+		<desc lang="en">Jerman membawa kualitas teknik dan permainan menyerang yang terkoordinasi, sementara Serbia mengandalkan kekuatan fisik, kemampuan duel udara, dan penyerang berbahaya untuk menghadapi tuan rumah.</desc>
 	</programme>
 	<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
 	<programme start="20261112040000 +0000" stop="20261112060000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Two 2026/27</title>
-		<desc lang="en">AFC Champions League Two 2026/27 mempertemukan klub-klub Asia yang mengandalkan kekuatan taktik, kualitas serangan, dan kerja sama tim untuk memperebutkan gelar juara tingkat benua.</desc>
+		<title lang="en">ACL Two 2026/27: MVC Vs PSB</title>
+		<desc lang="en">Melbourne Victory mengandalkan permainan fisik, pertahanan terorganisasi, dan dukungan kandang menghadapi Persib Bandung yang memiliki umpan akurat, kreativitas serangan, serta kerja sama tim.</desc>
 	</programme>
-	<programme start="20261112060000 +0000" stop="20261112080000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+	<programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="SoccerChannel">
+		<title lang="en">Sikat Tipis</title>
+		<desc lang="en">Sikat Tipis menghadirkan berbagai tantangan dan persaingan dalam format hiburan yang ringan. Para peserta menghadapi tugas-tugas tak terduga yang menguji kemampuan, reaksi, dan keberanian mereka, menghasilkan momen lucu serta persaingan seru bagi penonton.</desc>
+	</programme>
+	<programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="SoccerChannel">
+		<title lang="en">Womens Olympic Football Los Angeles 2028 - Asian Qualifiers Draw</title>
+		<desc lang="en">Delapan tim Asia, termasuk Jepang, Australia, China, dan Korea Selatan, diundi ke dalam grup untuk memperebutkan tiket langsung ke Olimpiade Los Angeles 2028.</desc>
 	</programme>
 	<programme start="20261112080000 +0000" stop="20261112100000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
+		<title lang="en">UNL: GRE Vs NED</title>
+		<desc lang="en">Yunani mengandalkan pertahanan disiplin dan serangan balik, sementara Belanda memiliki kualitas teknik, kedalaman serangan, dan penguasaan bola yang kuat.</desc>
 	</programme>
 	<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="SoccerChannel">
 		<title lang="en">World Classic Soccer</title>
 		<desc lang="en">Meskipun menampilkan Piala Dunia FIFA 1990 yang diadakan di Italia, permainan ini bukan bagian dari seri resmi Piala Dunia FIFA.</desc>
 	</programme>
 	<programme start="20261112103000 +0000" stop="20261112123000 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+		<title lang="en">Shopee Cup 26/27: MDG Vs KAS</title>
+		<desc lang="en">Madura United berusaha memanfaatkan kombinasi serangan, sementara Kasetsart mengandalkan kerja sama tim dan disiplin taktik untuk menghadapi lawannya.</desc>
 	</programme>
 	<programme start="20261112123000 +0000" stop="20261112143000 +0000" channel="SoccerChannel">
-		<title lang="en">Pro Futsal League IDN 2026 / 27</title>
-		<desc lang="en">Pro Futsal League Indonesia 2026/27 mempertemukan klub-klub futsal terbaik nasional yang mengandalkan serangan cepat, keterampilan teknik, disiplin taktik, dan kerja sama untuk meraih gelar juara.</desc>
+		<title lang="en">Pro Futsal League IDN 2026/27</title>
+		<desc lang="en">Klub-klub futsal terbaik Indonesia bersaing memperebutkan gelar juara nasional. Umpan cepat, kemampuan teknik, tekanan agresif, dan kerja sama taktik menjadi kekuatan utama sepanjang musim 2026/27.</desc>
 	</programme>
 	<programme start="20261112143000 +0000" stop="20261112163000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+		<title lang="en">Timnas Spesial: MYA Vs IDN</title>
+		<desc lang="en">Myanmar menghadapi Indonesia dalam laga persahabatan spesial, menampilkan gol, taktik, dan performa timnas.</desc>
 	</programme>
-	<programme start="20261112163000 +0000" stop="20261112183000 +0000" channel="SoccerChannel">
-		<title lang="en">UEFA Nations League</title>
-		<desc lang="en">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
-	</programme>
-	<programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="SoccerChannel">
+	<programme start="20261112163000 +0000" stop="20261112164500 +0000" channel="SoccerChannel">
 		<title lang="en">Extra Time</title>
 		<desc lang="en">cuplikan klip klip terbaik sepakbola luar dan dalam negeri yang mengangkat segala hal berkatian dengan dunia sepakbola</desc>
 	</programme>
-	<programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="SoccerChannel">
-		<title lang="en">ACL Two 2026/27</title>
-		<desc lang="en">AFC Champions League Two 2026/27 mempertemukan klub-klub Asia yang mengandalkan kekuatan taktik, kualitas serangan, dan kerja sama tim untuk memperebutkan gelar juara tingkat benua.</desc>
+	<programme start="20261112164500 +0000" stop="20261112190000 +0000" channel="SoccerChannel">
+		<title lang="en">UEFA Nations League: Turkiye vs Belgium</title>
+		<desc lang="en">Turki membawa permainan menyerang yang energik dan gelandang teknis, sementara Belgia mengandalkan pemain berpengalaman, kualitas individu, dan kreativitas serangan.</desc>
 	</programme>
-	<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="SoccerChannel">
+	<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="SoccerChannel">
 		<title lang="en">World Classic Soccer</title>
 		<desc lang="en">Meskipun menampilkan Piala Dunia FIFA 1990 yang diadakan di Italia, permainan ini bukan bagian dari seri resmi Piala Dunia FIFA.</desc>
 	</programme>
-	<programme start="20261112213000 +0000" stop="20261112233000 +0000" channel="SoccerChannel">
-		<title lang="en">ASEAN Club C'ship Shopee Cup</title>
+	<programme start="20261112193000 +0000" stop="20261112214500 +0000" channel="SoccerChannel">
+		<title lang="en">UEFA Nations League: Italy vs France</title>
+		<desc lang="en">Italia mengandalkan organisasi taktik dan pertahanan yang kuat, sementara Prancis membawa kecepatan, kekuatan fisik, dan pemain menyerang berbakat untuk meraih kemenangan.</desc>
 	</programme>
-	<programme start="20261112233000 +0000" stop="20261113013000 +0000" channel="SoccerChannel">
-		<title lang="en">Timnas Spesial</title>
-		<desc lang="en">Timnas Spesial, tim nasional generasi baru yang dibentuk diam-diam dari talenta tersembunyi di pelosok negeri.</desc>
+	<programme start="20261112214500 +0000" stop="20261112234500 +0000" channel="SoccerChannel">
+		<title lang="en">Shopee Cup 26/27: MDG Vs KAS</title>
+		<desc lang="en">Madura United berusaha memanfaatkan kombinasi serangan, sementara Kasetsart mengandalkan kerja sama tim dan disiplin taktik untuk menghadapi lawannya.</desc>
+	</programme>
+	<programme start="20261112234500 +0000" stop="20261113013000 +0000" channel="SoccerChannel">
+		<title lang="en">Timnas Spesial: MYA Vs IDN</title>
+		<desc lang="en">Myanmar menghadapi Indonesia dalam laga persahabatan spesial, menampilkan gol, taktik, dan performa timnas.</desc>
 	</programme>
 	<programme start="20261109223000 +0000" stop="20261110003000 +0000" channel="SpoTV1">
 		<title lang="en">2026 Asian Tournament: Iloilo</title>
@@ -14518,25 +14447,29 @@
 		<title lang="en">ALM Mini Match: AKL Vs WEL</title>
 		<desc lang="en">Auckland dan Wellington menunjukkan kemampuan menyerang dan bertahan dalam pertandingan ringkas ini. Efisiensi mencetak angka, kerja sama tim, dan penguasaan tempo menjadi kunci keunggulan.</desc>
 	</programme>
-	<programme start="20261110180000 +0000" stop="20261110200000 +0000" channel="SpoTV1">
+	<programme start="20261110180000 +0000" stop="20261110191500 +0000" channel="SpoTV1">
 		<title lang="en">2026 Asian Tournament: Iloilo</title>
 		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
 	</programme>
+	<programme start="20261110191500 +0000" stop="20261110200000 +0000" channel="SpoTV1">
+		<title lang="en">The Open Official Film 2026</title>
+		<desc lang="en">The Open Official Film 2026 merangkum momen penting kejuaraan, menampilkan pegolf elite, kondisi lapangan yang menantang, dan pukulan penentu. Kemampuan, ketenangan, dan strategi bermain menjadi faktor penting dalam perebutan salah satu gelar paling bergengsi di golf.</desc>
+	</programme>
 	<programme start="20261110200000 +0000" stop="20261110220000 +0000" channel="SpoTV1">
-		<title lang="en">2026 Asian Tournament: Iloilo</title>
-		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
+		<title lang="en">2026 GT World Challenge Asia</title>
+		<desc lang="en">2026 GT World Challenge Asia menampilkan mobil GT berperforma tinggi dan tim-tim terbaik yang bersaing di berbagai sirkuit. Kejuaraan ini menekankan daya tahan, strategi tim, dan koordinasi pembalap dalam persaingan ketat.</desc>
 	</programme>
 	<programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="SpoTV1">
 		<title lang="en">ALM Mini Match: PER Vs NEW</title>
 		<desc lang="en">Perth dan Newcastle bersaing dalam format rangkuman pertandingan basket. Eksekusi serangan, tekanan pertahanan, dan kerja sama tim berperan penting dalam menentukan hasil.</desc>
 	</programme>
-	<programme start="20261110223000 +0000" stop="20261111003000 +0000" channel="SpoTV1">
+	<programme start="20261110223000 +0000" stop="20261111000000 +0000" channel="SpoTV1">
 		<title lang="en">2026 Asian Tournament: Iloilo</title>
 		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
 	</programme>
-	<programme start="20261110223000 +0000" stop="20261111003000 +0000" channel="SpoTV1">
-		<title lang="en">2026 Asian Tournament: Iloilo</title>
-		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
+	<programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="SpoTV1">
+		<title lang="en">Asia-Pacific Amateur C'ship '26</title>
+		<desc lang="en">Asia-Pacific Amateur Championship 2026 menghadirkan pegolf amatir terbaik dari kawasan Asia-Pasifik. Para peserta bersaing memperebutkan gelar bergengsi dan kesempatan tampil di turnamen golf utama dunia.</desc>
 	</programme>
 	<programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="SpoTV1">
 		<title lang="en">ALM Mini Match: MAC Vs BRI</title>
@@ -14570,9 +14503,13 @@
 		<title lang="en">CelcomDigi STL GP Melaka (L)</title>
 		<desc lang="en">Tim-tim bersaing dalam sepak takraw dengan mengandalkan tendangan eksplosif, kelincahan, dan kontrol bola yang presisi. Serangan tajam, pertahanan terkoordinasi, dan refleks cepat menjadi kunci kemenangan.</desc>
 	</programme>
-	<programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="SpoTV1">
+	<programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="SpoTV1">
 		<title lang="en">Asia-Pacific Amateur C'ship '26</title>
 		<desc lang="en">Asia-Pacific Amateur Championship 2026 menghadirkan pegolf amatir terbaik dari kawasan Asia-Pasifik. Para peserta bersaing memperebutkan gelar bergengsi dan kesempatan tampil di turnamen golf utama dunia.</desc>
+	</programme>
+	<programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="SpoTV1">
+		<title lang="en">ALM Mini Match: MAC Vs BRI</title>
+		<desc lang="en">ALM Mini Match: MAC vs BRI merangkum gol, peluang, dan momen penting dalam format pertandingan ringkas.</desc>
 	</programme>
 	<programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="SpoTV1">
 		<title lang="en">2026 WSL Replay: Portugal Pro</title>
@@ -14586,11 +14523,11 @@
 		<title lang="en">CelcomDigi STL GP Melaka (L)</title>
 		<desc lang="en">Tim-tim bersaing dalam sepak takraw dengan mengandalkan tendangan eksplosif, kelincahan, dan kontrol bola yang presisi. Serangan tajam, pertahanan terkoordinasi, dan refleks cepat menjadi kunci kemenangan.</desc>
 	</programme>
-	<programme start="20261111150000 +0000" stop="20261111170000 +0000" channel="SpoTV1">
+	<programme start="20261111150000 +0000" stop="20261111171000 +0000" channel="SpoTV1">
 		<title lang="en">A-League Men: ADL Vs MVC</title>
 		<desc lang="en">Adelaide United vs Melbourne Victory menghadirkan rivalitas klasik A-League. Adelaide mengandalkan kecepatan dan pergerakan menyerang, sementara Victory tampil dengan pengalaman dan disiplin taktik.</desc>
 	</programme>
-	<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="SpoTV1">
+	<programme start="20261111171000 +0000" stop="20261111180000 +0000" channel="SpoTV1">
 		<title lang="en">CelcomDigi STL GP Penang HL</title>
 		<desc lang="en">Saksikan kembali reli penting, servis bertenaga, dan serangan penentu dari Grand Prix Penang saat tim-tim menunjukkan keterampilan, kelincahan, dan kerja sama taktik mereka.</desc>
 	</programme>
@@ -14599,8 +14536,8 @@
 		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
 	</programme>
 	<programme start="20261111200000 +0000" stop="20261111220000 +0000" channel="SpoTV1">
-		<title lang="en">2026 Asian Tournament: Iloilo</title>
-		<desc lang="en">Turnamen di Iloilo ini mempertemukan peserta golf Asia, dengan strategi lapangan, pukulan presisi, dan ketenangan menghadapi tekanan menjadi faktor penentu.</desc>
+		<title lang="en">2026 GT World Challenge Asia</title>
+		<desc lang="en">2026 GT World Challenge Asia menampilkan mobil GT berperforma tinggi dan tim-tim terbaik yang bersaing di berbagai sirkuit. Kejuaraan ini menekankan daya tahan, strategi tim, dan koordinasi pembalap dalam persaingan ketat.</desc>
 	</programme>
 	<programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="SpoTV1">
 		<title lang="en">2026/27 ALM Weekly Highlights</title>
@@ -17333,13 +17270,6 @@
 		<title lang="en">Bucin Spc. Hari Pahlawan</title>
 		<desc lang="en">Bucin Spesial menghadirkan lagu-lagu romantis dan hits favorit, menemani momen liburan dengan suasana hangat dan penuh perasaan.</desc>
 	</programme>
-	<programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="MusicTV">
-		<title lang="en">The Best Concert Special</title>
-	</programme>
-	<programme start="20261110150000 +0000" stop="20261110170000 +0000" channel="MusicTV">
-		<title lang="en">Konser Gelora Surabaya</title>
-		<desc lang="en">Konser spektakuler di kota Surabaya yang menampilkan rangkaian penampilan musisi papan atas Indonesia.</desc>
-	</programme>
 	<programme start="20261110170000 +0000" stop="20261110190000 +0000" channel="MusicTV">
 		<title lang="en">Indonesian Idol 2022</title>
 		<desc lang="en">Ajang pencarian bakat khusus penyanyi tahun 2022 yang menyaring bakat bakat menyanyi di tanah air</desc>
@@ -19723,88 +19653,85 @@
 		<desc lang="en">Jindul dan Pilus melaksanakan rencana mereka, mereka membongkar pintu dan memasuki rumah Joe. Jindul menyalakan Rori dan mengajaknya ikut, tapi kali ini berbeda, Rori yang sudah memiliki sensor Al, melalui POVnya mengenali wajah Jindul dan Pilus sebagai orang asing dengan ancaman untuk keluarga Joe.</desc>
 	</programme>
 	<programme start="20261111170000 +0000" stop="20261111183000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">14 Hari, Anak Band Atau Pak Guru ?</title>
+		<desc lang="en">14 Hari, Anak Band atau Pak Guru?” adalah judul FTV RCTI tentang gadis yang dalam waktu 14 hari harus memilih antara cinta anak band yang bebas atau pak guru yang mapan dan bertanggung jawab.</desc>
 	</programme>
 	<programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Joe &amp; Robot Kopi S1 E5</title>
+		<desc lang="en">Dipersembunyiannya, Jindul dan Pilus mengisi daya Rori dan memaksanya membuat kopi. Tapi Rori kembali membuat kericuhan, kopinya tak enak, bahkan dicampur garam dan oli. Selain itu, Rori pun kembali membuat Jindul dan Pilus bertengkar. Di tempat lain, Om Teddy berhasil menemukan titik GPS yang berkedip dan bersiap mencari Rori. Jindul yang marah karena dipermainkan Rori akhirnya mencabut listrik Robot hingga GPS mati kembali.</desc>
 	</programme>
 	<programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">4 Anak Rantau - Anak Gaul Ibukota</title>
+		<desc lang="en">4 anak muda yang merantau jauh dari kota kelahirannya itu adalah Eko, Nunu, Andi, dan Ucok. Mereka jadi anak kost yang sering mendapat sial atau istilahnya ngenest.</desc>
 	</programme>
 	<programme start="20261111200000 +0000" stop="20261111221500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Preman Pensiun Deui</title>
 	</programme>
 	<programme start="20261111221500 +0000" stop="20261111224500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Seputar iNews</title>
+		<desc lang="en">Seputar iNews menyajikan berita terkini dari dalam dan luar negeri, meliputi politik, ekonomi, hukum, sosial, olahraga, dan peristiwa penting. Dikemas secara cepat, akurat, dan mendalam untuk memberikan informasi terpercaya kepada pemirsa.</desc>
 	</programme>
-	<programme start="20261111224500 +0000" stop="20261112000000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111224500 +0000" stop="20261112031500 +0000" channel="RCTIWorld">
+		<title lang="en">Cinta Berakhir Bahagia Adisty</title>
+		<desc lang="en">Adisty, seorang gadis yang menjadi tulang punggung keluarga, berjuang melunasi utang keluarganya. Kehidupannya berubah ketika ia bertemu Pasha, pria terhormat dari keluarga kaya raya. Tanpa mereka ketahui, keduanya merupakan bayi yang tertukar saat lahir, yang membawa berbagai konflik dalam kehidupan dan kisah cinta mereka.</desc>
 	</programme>
-	<programme start="20261112000000 +0000" stop="20261112031500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111224500 +0000" stop="20261112031500 +0000" channel="RCTIWorld">
+		<title lang="en">Cinta Berakhir Bahagia Adisty</title>
+		<desc lang="en">Adisty, seorang gadis yang menjadi tulang punggung keluarga, berjuang melunasi utang keluarganya. Kehidupannya berubah ketika ia bertemu Pasha, pria terhormat dari keluarga kaya raya. Tanpa mereka ketahui, keduanya merupakan bayi yang tertukar saat lahir, yang membawa berbagai konflik dalam kehidupan dan kisah cinta mereka.</desc>
 	</programme>
 	<programme start="20261112031500 +0000" stop="20261112034500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Go Spot Eksklusif</title>
+		<desc lang="en">Go Spot Eksklusif menyajikan liputan khusus seputar dunia hiburan, kisah para selebritas, serta berita eksklusif dan inspiratif yang dikemas ringan, menarik, dan informatif.</desc>
 	</programme>
-	<programme start="20261112034500 +0000" stop="20261112051500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112034500 +0000" stop="20261112050000 +0000" channel="RCTIWorld">
+		<title lang="en">Terikat Janji Selamanya</title>
 	</programme>
-	<programme start="20261112051500 +0000" stop="20261112103000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112050000 +0000" stop="20261112103000 +0000" channel="RCTIWorld">
+		<title lang="en">Ikatan Cinta Aldebaran &amp; Andin</title>
+		<desc lang="en">Kompilasi perjalanan cinta Aldebaran dan Andin yang penuh lika-liku, mulai dari kesalahpahaman, pengorbanan, hingga perjuangan mempertahankan keluarga.</desc>
 	</programme>
 	<programme start="20261112103000 +0000" stop="20261112120000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Ternyata Ini Cinta</title>
+		<desc lang="en">Ketika kehilangan mengubah segalanya, Luna harus bangkit, menemukan kembali harapannya dan menghadapi pertemuan yang tak pernah ia duga. Akankah pertemuan itu menjadi awal dari kebahagiaan atau justru membawa luka yang lebih besar?</desc>
 	</programme>
 	<programme start="20261112120000 +0000" stop="20261112133000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Terikat Janji</title>
+		<desc lang="en">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
 	</programme>
 	<programme start="20261112133000 +0000" stop="20261112150000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Terbaik Itu Kamu</title>
+		<desc lang="en">Satu pengkhianatan mengubah hidup selamanya, 5 tahun mendekam di penjara. Sekarang dia kembali dengan identitas baru, namun kebenaran tak mudah digenggam.</desc>
 	</programme>
-	<programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
-	</programme>
-	<programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="RCTIWorld">
+		<title lang="en">Preman Pensiun - Manusia Merdeka</title>
+		<desc lang="en">Preman Pensiun - Manusia Merdeka</desc>
 	</programme>
 	<programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Preman Pensiun - Kembali ke Fitri</title>
+		<desc lang="en">Muslihat sudah kembali ke kampung halamannya, berencana merenovasi masjid di sana membuatnya menjadi lebih bagus dan lebih besar. Usaha kicimpring sudah jauh lebih maju sejak dipegang oleh Ujang yang dibantu oleh Serena. Dibalik usaha kicimpring yang sukses, Ujang terjerat masalah asmara.</desc>
 	</programme>
 	<programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Joe &amp; Robot Kopi S1 E6</title>
+		<desc lang="en">Clara dan lbu Joe berangkat bersama seorang petugas polisi menuju persembunyian Duo Kepo. Tapi saat tiba di lokasi, rumah terbengkalai itu sudah kosong, Polisi mempertanyakan informasi lokasi dari Clara. Rupanya Duo Kepo sudah mengetahui HP Joe yang mengirimkan pesan sos dan melakukan Evakuasi dengan menggunakan sebuah gerobak yang melewati Clara dan Polisi.</desc>
 	</programme>
-	<programme start="20261112193000 +0000" stop="20261112214500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112193000 +0000" stop="20261112204500 +0000" channel="RCTIWorld">
+		<title lang="en">Nikah Duluan</title>
+		<desc lang="en">Seorang wanita muda sangat gembira ketika pacarnya akhirnya melamarnya. Namun, mereka menghadapi kesulitan karena ibunya tidak menyetujui hubungan mereka.</desc>
+	</programme>
+	<programme start="20261112204500 +0000" stop="20261112214500 +0000" channel="RCTIWorld">
+		<title lang="en">Rumah Untuk Ibu</title>
+		<desc lang="en">Sinema drama keluarga yang menampilkan kisah kehidupan yang berjudul "Rumah Untuk Ibu".</desc>
 	</programme>
 	<programme start="20261112214500 +0000" stop="20261112221500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Preman Pensiun Deui</title>
 	</programme>
 	<programme start="20261112221500 +0000" stop="20261112224500 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Seputar iNews</title>
+		<desc lang="en">Seputar iNews menyajikan berita terkini dari dalam dan luar negeri, meliputi politik, ekonomi, hukum, sosial, olahraga, dan peristiwa penting. Dikemas secara cepat, akurat, dan mendalam untuk memberikan informasi terpercaya kepada pemirsa.</desc>
 	</programme>
-	<programme start="20261112224500 +0000" stop="20261113000000 +0000" channel="RCTIWorld">
-		<title lang="en">RCTI World</title>
-		<desc lang="en">RCTI World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112224500 +0000" stop="20261113031500 +0000" channel="RCTIWorld">
+		<title lang="en">Cinta Berakhir Bahagia Adisty</title>
+		<desc lang="en">Adisty, seorang gadis yang menjadi tulang punggung keluarga, berjuang melunasi utang keluarganya. Kehidupannya berubah ketika ia bertemu Pasha, pria terhormat dari keluarga kaya raya. Tanpa mereka ketahui, keduanya merupakan bayi yang tertukar saat lahir, yang membawa berbagai konflik dalam kehidupan dan kisah cinta mereka.</desc>
 	</programme>
 	<programme start="20261109233000 +0000" stop="20261110010000 +0000" channel="GTVWorld">
 		<title lang="en">Entong</title>
@@ -19870,107 +19797,195 @@
 		<title lang="en">Lampir</title>
 		<desc lang="en">Sekelompok sahabat yang sedang melakukan pemotretan pra-pernikahan di sebuah vila mewah dan bergaya vintage tiba-tiba terjebak di sarang suci Mak Lampir, yang konon mendambakan kecantikan abadi. Bisakah mereka selamat dari permainan mematikan Mak Lampir?</desc>
 	</programme>
-	<programme start="20261110173000 +0000" stop="20261110190000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110173000 +0000" stop="20261110181500 +0000" channel="GTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E9</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261110190000 +0000" stop="20261110203000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110181500 +0000" stop="20261110190000 +0000" channel="GTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E10</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261110203000 +0000" stop="20261110230000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110190000 +0000" stop="20261110210000 +0000" channel="GTVWorld">
+		<title lang="en">Uang Kaget Lagi Dobel Kagetnya S1 E5</title>
+		<desc lang="en">Uang Kaget Lagi Dobel Kagetnya merupakan varian lain dari program Uang Kaget Lagi dengan kejutan dan keseruan yang dua kali lipat lebih banyak!</desc>
 	</programme>
-	<programme start="20261110230000 +0000" stop="20261111000000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110210000 +0000" stop="20261110213900 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E1</title>
+		<desc lang="en">Parallel cut Joe dan Clara di sebuah pagi di rumah masing-masing, siap beraktivitas. Tak lama, di kedai kopi Joe yang riuh, Joe tiba dan menyelesaikan masalah diantrian. Terlihat Rori si robot kopi yang melayani pelanggan dan memutar musik sesuai selera pengunjung. Tak lama Clara tiba menyeruak antrian, membuat pengunjung lain protes, namun ia disambut Joe yang adalah teman lamanya. Mereka pun saling menyapa dan pergi menyusuri jalanan Surabaya untuk mengenang masa lalu kala pertama Clara melihat Joe saling bertemu.</desc>
 	</programme>
-	<programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110213900 +0000" stop="20261110222000 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E2</title>
+		<desc lang="en">Clara mendapat ide agar Joe mengotomatisasi proses pembuatan agar tak perlu menggunakan sepeda untuk membawa berbagai peralatan dan proses bisa lebih cepat. Joe diajak ke rumah Clara dan berkenalan dengan orangtua Clara. Mereka makan bersama sambil mengobrol dengan hangat. Saat Clara menanyakan robot yang ayahnya buat, ternyata robot itu sudah dibuang karena tidak berfungsi dan sering korslet sehingga Ayah Clara yang tak punya waktu untuk memperbaiki, ia malah membuangnya.</desc>
 	</programme>
-	<programme start="20261111010000 +0000" stop="20261111050000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110222000 +0000" stop="20261110230000 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E3</title>
+		<desc lang="en">Joe tampak sedih dan depresi, ia mulai berjualan kopi dibantu oleh robot kopi yang baru berfungsi seadanya itu. Tapi Joe cenderung menutup diri, ia diam dan pasif bahkan terhadap Clara. Jindul dan Pilus melihat Joe berjualan dengan robot kopi dan ingin mencurinya, ingin menjadikannya robot pengemis. Jindul yang usil melaporkan lokasi Joe pada Satpol PP. Alhasil, Joe dan Clara dikejar-kejar Satpol PP.</desc>
 	</programme>
-	<programme start="20261111050000 +0000" stop="20261111080000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="GTVWorld">
+		<title lang="en">Buletin iNews Pagi</title>
+		<desc lang="en">Program berita harian pagi hari yang menyajikan berbagai peristiwa terkini secara cepat dan akurat dari seluruh Indonesia.</desc>
 	</programme>
-	<programme start="20261111080000 +0000" stop="20261111103000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110233000 +0000" stop="20261111010000 +0000" channel="GTVWorld">
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
 	</programme>
-	<programme start="20261111103000 +0000" stop="20261111120000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110233000 +0000" stop="20261111010000 +0000" channel="GTVWorld">
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
 	</programme>
-	<programme start="20261111120000 +0000" stop="20261111133000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111010000 +0000" stop="20261111014500 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E5</title>
+		<desc lang="en">Diva sangat antusias sekaligus gugup saat berakting bersama Surya Saputra. Sayangnya, ia tidak sempat membicarakan hubungan mereka. Diva pun berusaha mengejar mobil Surya, namun gagal karena motor Fahmi diberhentikan oleh penagih utang.</desc>
 	</programme>
-	<programme start="20261111133000 +0000" stop="20261111153000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111014500 +0000" stop="20261111023700 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E6</title>
+		<desc lang="en">Sedih setelah mengetahui bahwa Surya Saputra bukan ayahnya, Diva ditenangkan oleh Ravi yang membawanya ke tempat romantis. Ketika Ravi membuatnya semakin jatuh cinta, Diva justru terharu dengan usaha Fahmi yang membantunya memecahkan misteri tentang Abang. Berkat bantuan Fahmi, Diva akhirnya mengetahui bahwa Abang bukanlah seorang aktor, melainkan kru film.</desc>
 	</programme>
-	<programme start="20261111153000 +0000" stop="20261111173000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111023700 +0000" stop="20261111033000 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E7</title>
+		<desc lang="en">Nada meminta waktu untuk menjawab lamaran Beni karena ia masih ragu dengan perasaannya. Suatu hari, saat makan siang bersama Beni, Nada mengetahui bahwa Hendra sudah berpacaran dengan Nadia. Akhirnya, ia memutuskan untuk menerima lamaran Beni. Sementara itu, ketika Diva tampil di audisi MIC, ia bertemu dengan Hendra tanpa mengetahui bahwa Hendra adalah kakaknya.</desc>
 	</programme>
-	<programme start="20261111173000 +0000" stop="20261111190000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111033000 +0000" stop="20261111043000 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E8</title>
+		<desc lang="en">Diva meminta bantuan Ravi untuk mencari tempat tinggal sementara, dan Ravi menawarkan apartemennya. Momen romantis di apartemen Ravi membuat Diva melewatkan presentasi akhir tugas kelompoknya, yang membuat Fahmi marah besar. Rasa cemburu Fahmi terhadap kedekatan Diva dan Ravi membuatnya kehilangan kendali hingga terjadi pertengkaran.</desc>
 	</programme>
-	<programme start="20261111190000 +0000" stop="20261111203000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="GTVWorld">
+		<title lang="en">Daur Hidup S1 E1</title>
+		<desc lang="en">Untuk mendalami peran yang ia mainkan, Omar harus kembali ke tempat tinggal lamanya — tempat di mana semua traumanya menumpuk.</desc>
 	</programme>
-	<programme start="20261111203000 +0000" stop="20261111223000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111050000 +0000" stop="20261111103000 +0000" channel="GTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
+	</programme>
+	<programme start="20261111103000 +0000" stop="20261111113000 +0000" channel="GTVWorld">
+		<title lang="en">Awas Ada Sule Lagi S1 E1</title>
+		<desc lang="en">Sule yang super jahil kerja sama keluarga Kanjeng Mami lagi!</desc>
+	</programme>
+	<programme start="20261111113000 +0000" stop="20261111133000 +0000" channel="GTVWorld">
+		<title lang="en">Uang Kaget Lagi Dobel Kagetnya S1 E5</title>
+		<desc lang="en">Uang Kaget Lagi Dobel Kagetnya merupakan varian lain dari program Uang Kaget Lagi dengan kejutan dan keseruan yang dua kali lipat lebih banyak!</desc>
+	</programme>
+	<programme start="20261111133000 +0000" stop="20261111144000 +0000" channel="GTVWorld">
+		<title lang="en">TLC: TV, Love, Cinema S1 E1</title>
+		<desc lang="en">Hadid adalah anak tunggal sekaligus pewaris kebun anggur yang memproduksi wine. Dalam suatu pesta, Hadid bertemu dengan Quinta, mahasiswi perkebunan yang mencuri hatinya. Untuk mengetahui ketulusan wanita yang mencintainya, Hadid menutupi identitas aslinya dengan menyamar sebagai karyawan biasa di kantor kebun anggurnya.</desc>
+	</programme>
+	<programme start="20261111144000 +0000" stop="20261111150000 +0000" channel="GTVWorld">
+		<title lang="en">Travel Addict S1 E7</title>
+		<desc lang="en">Variety show yang mengajak penonton untuk menikmati keindahan alam Indonesia. Tidak hanya wisata alam, Travel Addict juga mengajak kita mengenal sisi lain dari spot-spot wisata keren yang ada di Indonesia.</desc>
+	</programme>
+	<programme start="20261111150000 +0000" stop="20261111154000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E75</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261111154000 +0000" stop="20261111162000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E80</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261111162000 +0000" stop="20261111170000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E59</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="GTVWorld">
+		<title lang="en">Dua Alam - Villa Kaliurang</title>
+		<desc lang="en">Kali ini, Mars dan Bobby mengajak teman mereka Dara untuk menjelajahi aktivitas paranormal di sebuah vila angker di Kaliurang, Yogyakarta. Lokasi tersebut dikenal kaya akan nilai sejarah karena dibangun sejak zaman kolonial.</desc>
+	</programme>
+	<programme start="20261111173000 +0000" stop="20261111181500 +0000" channel="GTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E11</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
+	</programme>
+	<programme start="20261111181500 +0000" stop="20261111190000 +0000" channel="GTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E12</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
+	</programme>
+	<programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="GTVWorld">
+		<title lang="en">Uang Kaget Lagi Dobel Kagetnya S1 E6</title>
+		<desc lang="en">Uang Kaget Lagi Dobel Kagetnya merupakan varian lain dari program Uang Kaget Lagi dengan kejutan dan keseruan yang dua kali lipat lebih banyak!</desc>
+	</programme>
+	<programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E4</title>
+		<desc lang="en">Jindul dan Pilus melaksanakan rencana mereka, mereka membongkar pintu dan memasuki rumah Joe. Jindul menyalakan Rori dan mengajaknya ikut, tapi kali ini berbeda, Rori yang sudah memiliki sensor Al, melalui POVnya mengenali wajah Jindul dan Pilus sebagai orang asing dengan ancaman untuk keluarga Joe.</desc>
+	</programme>
+	<programme start="20261111213000 +0000" stop="20261111220000 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E5</title>
+		<desc lang="en">Dipersembunyiannya, Jindul dan Pilus mengisi daya Rori dan memaksanya membuat kopi. Tapi Rori kembali membuat kericuhan, kopinya tak enak, bahkan dicampur garam dan oli. Selain itu, Rori pun kembali membuat Jindul dan Pilus bertengkar. Di tempat lain, Om Teddy berhasil menemukan titik GPS yang berkedip dan bersiap mencari Rori. Jindul yang marah karena dipermainkan Rori akhirnya mencabut listrik Robot hingga GPS mati kembali.</desc>
+	</programme>
+	<programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="GTVWorld">
+		<title lang="en">Joe &amp; Robot Kopi S1 E6</title>
+		<desc lang="en">Clara dan lbu Joe berangkat bersama seorang petugas polisi menuju persembunyian Duo Kepo. Tapi saat tiba di lokasi, rumah terbengkalai itu sudah kosong, Polisi mempertanyakan informasi lokasi dari Clara. Rupanya Duo Kepo sudah mengetahui HP Joe yang mengirimkan pesan sos dan melakukan Evakuasi dengan menggunakan sebuah gerobak yang melewati Clara dan Polisi.</desc>
 	</programme>
 	<programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Katanya S1 E6</title>
+		<desc lang="en">Ketika manusia dihadapkan dengan sesuatu yang tidak ia harapkan, pasti ia berusaha untuk menghindar atau menghilangkan hambatan tersebut dengan segala cara. Bagaimana jika sebuah kehamilan yang tidak diekspektasikan? Banyak orang percaya nanas muda dan soda dapat menggugurkan kandungan, namun apakah cara tersebut benar - benar terbukti dapat menyelesaikan masalah?</desc>
 	</programme>
 	<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Buletin iNews Pagi</title>
+		<desc lang="en">Program berita harian pagi hari yang menyajikan berbagai peristiwa terkini secara cepat dan akurat dari seluruh Indonesia.</desc>
 	</programme>
 	<programme start="20261111233000 +0000" stop="20261112010000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
 	</programme>
 	<programme start="20261111233000 +0000" stop="20261112010000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
 	</programme>
-	<programme start="20261112010000 +0000" stop="20261112050000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112010000 +0000" stop="20261112015500 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E9</title>
+		<desc lang="en">Rodiah sangat kesal hingga ia mengusir Nada dari rumah. Sementara itu, Diva dikeluarkan dari acara casting MIC, yang membuatnya harus memutar otak untuk mencari tahu identitas ayahnya. Diva bekerja sama dengan Rodiah sampai akhirnya ia berhasil mengungkap siapa ayahnya. Ia pun bertemu dengan Nada, terlibat pertengkaran besar, dan meminta Nada untuk jujur tentang masa lalunya dengan Hendra.</desc>
 	</programme>
-	<programme start="20261112050000 +0000" stop="20261112080000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112015500 +0000" stop="20261112030000 +0000" channel="GTVWorld">
+		<title lang="en">Menggapai Ikatan Cinta S1 E10</title>
+		<desc lang="en">Hubungan antara Nada dan Diva membaik, dan mereka pun kembali ke rumah. Kemudian, Nada meminta maaf kepada Beni dan memutuskan untuk melanjutkan rencana pernikahannya. Meskipun Diva gagal memenangkan acara MIC, ia mendapat kesempatan untuk berbicara dengan Hendra tentang hubungan darah mereka. Pada akhirnya, Hendra menerima Diva sebagai anaknya.</desc>
 	</programme>
-	<programme start="20261112080000 +0000" stop="20261112103000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112030000 +0000" stop="20261112032000 +0000" channel="GTVWorld">
+		<title lang="en">Travel Addict S1 E8</title>
+		<desc lang="en">Variety show yang mengajak penonton untuk menikmati keindahan alam Indonesia. Tidak hanya wisata alam, Travel Addict juga mengajak kita mengenal sisi lain dari spot-spot wisata keren yang ada di Indonesia.</desc>
 	</programme>
-	<programme start="20261112103000 +0000" stop="20261112120000 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112032000 +0000" stop="20261112034000 +0000" channel="GTVWorld">
+		<title lang="en">Travel Addict S1 E9</title>
+		<desc lang="en">Variety show yang mengajak penonton untuk menikmati keindahan alam Indonesia. Tidak hanya wisata alam, Travel Addict juga mengajak kita mengenal sisi lain dari spot-spot wisata keren yang ada di Indonesia.</desc>
 	</programme>
-	<programme start="20261112120000 +0000" stop="20261112131500 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112034000 +0000" stop="20261112040000 +0000" channel="GTVWorld">
+		<title lang="en">Travel Addict S1 E10</title>
+		<desc lang="en">Variety show yang mengajak penonton untuk menikmati keindahan alam Indonesia. Tidak hanya wisata alam, Travel Addict juga mengajak kita mengenal sisi lain dari spot-spot wisata keren yang ada di Indonesia.</desc>
 	</programme>
-	<programme start="20261112131500 +0000" stop="20261112154500 +0000" channel="GTVWorld">
-		<title lang="en">GTV World</title>
-		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="GTVWorld">
+		<title lang="en">Uang Kaget Lagi S1 E1</title>
+		<desc lang="en">Uang Kaget Lagi merupakan program lama yang dikemas dengan konsep yang baru, menampilkan para crazy rich people yang akan menguji kebaikan seseorang sebelum memberikan mereka sejumlah uang yang harus mereka habiskan.</desc>
 	</programme>
-	<programme start="20261112154500 +0000" stop="20261112180000 +0000" channel="GTVWorld">
+	<programme start="20261112050000 +0000" stop="20261112103000 +0000" channel="GTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
+	</programme>
+	<programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="GTVWorld">
+		<title lang="en">Awas Ada Sule Lagi S1 E2</title>
+		<desc lang="en">Sule yang super jahil kerja sama keluarga Kanjeng Mami lagi!</desc>
+	</programme>
+	<programme start="20261112113000 +0000" stop="20261112133000 +0000" channel="GTVWorld">
+		<title lang="en">Uang Kaget Lagi Dobel Kagetnya S1 E6</title>
+		<desc lang="en">Uang Kaget Lagi Dobel Kagetnya merupakan varian lain dari program Uang Kaget Lagi dengan kejutan dan keseruan yang dua kali lipat lebih banyak!</desc>
+	</programme>
+	<programme start="20261112133000 +0000" stop="20261112145500 +0000" channel="GTVWorld">
+		<title lang="en">TLC: TV, Love, Cinema S1 E2</title>
+		<desc lang="en">Marco, seorang produser dan director content yang dimutasi ke Bali atas permintaan klien yang ia tolak cintanya. Disana, ia bertemu dengan Andini, gadis manis, ceria dan humble yang bekerja sama dengannya sebagai host konten digital 'Sing Ken Ken'. Dengan Andini, ia merasa menemukan cinta sejatinya. Namun ternyata Andini telah memiliki kekasih yang sedang koma.</desc>
+	</programme>
+	<programme start="20261112145500 +0000" stop="20261112153000 +0000" channel="GTVWorld">
+		<title lang="en">Cinta Di balik Awan S1 E1</title>
+		<desc lang="en">Razi, yang baru saja putus dengan Jessica, merasa tidak ada gunanya bekerja keras sebagai fotografer majalah. Di tengah gejolak batinnya, Razi bertemu Jane yang menawarkan pekerjaan sampingan sebagai paparazi. Akhirnya ia menerima tawaran tersebut, meskipun awalnya ingin mundur karena risikonya terlalu berbahaya. Razi kemudian pergi ke Yogyakarta bersama Jane. Awalnya, ia berniat membantu Jane menemui seorang dukun untuk melakukan sesuatu terhadap selingkuhan ayah Jane. Namun, tanpa diduga keduanya mengalami petualangan seru dan menegangkan saat disandera oleh sekte sesat Kerajaan Ilahi Kamilia di Gunung Kidul. Akibat kebersamaan dalam situasi penuh penderitaan itu, benih-benih cinta antara Razi dan Jane mulai tumbuh.</desc>
+	</programme>
+	<programme start="20261112153000 +0000" stop="20261112161000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E76</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261112161000 +0000" stop="20261112165000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E81</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261112165000 +0000" stop="20261112173000 +0000" channel="GTVWorld">
+		<title lang="en">Deg Deg-an S1 E63</title>
+		<desc lang="en">Program penelusuran yang mengulik kisah mistis di suatu tempat. Selain itu juga menampilkan uji nyali keberanian di tempat yang terbukti angker hingga merasakan deg degan dengan apa yang tidak terlihat.</desc>
+	</programme>
+	<programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="GTVWorld">
 		<title lang="en">GTV World</title>
 		<desc lang="en">GTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
 	</programme>
@@ -20467,19 +20482,19 @@
 		<title lang="en">Ada Dewa Disisiku S1 E2</title>
 		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261110101500 +0000" stop="20261110110000 +0000" channel="MNCTVWorld">
-		<title lang="en">Ada Dewa Disisiku S1 E3</title>
-		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
+	<programme start="20261110101500 +0000" stop="20261110103000 +0000" channel="MNCTVWorld">
+		<title lang="en">Temen Ngekost S1 E9</title>
+		<desc lang="en">Pertengkaran terjadi antara Yasmin dan Babe. Yasmin ingin melanjutkan studi ke luar negeri dan telah menerima undangan wawancara beasiswa. Namun, Babe ingin Yasmin menjadi penyanyi dangdut seperti ibunya. Hal ini sangat bertentangan dengan impian Yasmin yang menyukai K-pop. Pertengkaran tersebut membuat Yasmin kabur dari rumah kos bersama Kai.</desc>
 	</programme>
-	<programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MNCTVWorld">
+	<programme start="20261110103000 +0000" stop="20261110113000 +0000" channel="MNCTVWorld">
 		<title lang="en">Entong</title>
 		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
 	</programme>
-	<programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="MNCTVWorld">
+	<programme start="20261110113000 +0000" stop="20261110123000 +0000" channel="MNCTVWorld">
 		<title lang="en">Uang Kaget Lagi S1 E12</title>
 		<desc lang="en">Uang Kaget Lagi merupakan program lama yang dikemas dengan konsep yang baru, menampilkan para crazy rich people yang akan menguji kebaikan seseorang sebelum memberikan mereka sejumlah uang yang harus mereka habiskan.</desc>
 	</programme>
-	<programme start="20261110130000 +0000" stop="20261110160000 +0000" channel="MNCTVWorld">
+	<programme start="20261110123000 +0000" stop="20261110160000 +0000" channel="MNCTVWorld">
 		<title lang="en">DMD Panggung Rezeki (L)</title>
 		<desc lang="en">Program pencarian bakat terbaru dari MNC TV untuk mencari penyanyi dangdut berkualitas.</desc>
 	</programme>
@@ -20488,128 +20503,176 @@
 		<desc lang="en">Serial komedi yang bercerita tentang keluarga Aba Mahmud yang berlibur ke Bali bersama tetangga-tetangganya. Serial ini mengisahkan bagaimana keluarga Aba Mahmud mempertahankan budaya Arab di tengah masyarakat Bali.</desc>
 	</programme>
 	<programme start="20261110170000 +0000" stop="20261110190000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Suparman Reborn</title>
+		<desc lang="en">Bercerita tentang Ayat (Epy Kusnandar) yang balik ke kampung dan putranya, Suparman (Damar Rizal Marzuki) yang selalu sigap membantu masyarakat-</desc>
 	</programme>
 	<programme start="20261110190000 +0000" stop="20261110230000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Suparman Reborn</title>
+		<desc lang="en">Bercerita tentang Ayat (Epy Kusnandar) yang balik ke kampung dan putranya, Suparman (Damar Rizal Marzuki) yang selalu sigap membantu masyarakat-</desc>
 	</programme>
 	<programme start="20261110230000 +0000" stop="20261110231500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Roy &amp; Marten Sahabat Sehidup Semati S1 E1</title>
+		<desc lang="en">Roy, seorang politisi yang sedang mengalami kesulitan keuangan untuk pencalonannya. Ia bermimpi bertemu dengan almarhum ayahnya yang punya tabungan crypto. Supaya bisa mendapatkan password akun crypto sang ayah, Roy meminta bantuan Marten, sahabatnya yang indigo untuk membuka mata batinnya.</desc>
 	</programme>
-	<programme start="20261110231500 +0000" stop="20261111000000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110231500 +0000" stop="20261110234500 +0000" channel="MNCTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
 	</programme>
-	<programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110234500 +0000" stop="20261111010000 +0000" channel="MNCTVWorld">
+		<title lang="en">Banu Pangeran Ikan</title>
+		<desc lang="en">Hendra marah dan tak sengaja sebut Banu sebenarnya anak ikan. Kirana sedih dan kembali ke kerajaan Ikan, karena sang suami telah melanggar janji.</desc>
 	</programme>
-	<programme start="20261111010000 +0000" stop="20261111040000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261110234500 +0000" stop="20261111010000 +0000" channel="MNCTVWorld">
+		<title lang="en">Banu Pangeran Ikan</title>
+		<desc lang="en">Hendra marah dan tak sengaja sebut Banu sebenarnya anak ikan. Kirana sedih dan kembali ke kerajaan Ikan, karena sang suami telah melanggar janji.</desc>
 	</programme>
-	<programme start="20261111040000 +0000" stop="20261111051500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="MNCTVWorld">
+		<title lang="en">Uang Kaget Lagi S1 E13</title>
+		<desc lang="en">Uang Kaget Lagi merupakan program lama yang dikemas dengan konsep yang baru, menampilkan para crazy rich people yang akan menguji kebaikan seseorang sebelum memberikan mereka sejumlah uang yang harus mereka habiskan.</desc>
+	</programme>
+	<programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="MNCTVWorld">
+		<title lang="en">Bedah Rumah Lagi S4 E1</title>
+		<desc lang="en">Bedah Rumah Lagi adalah program televisi yang mengubah rumah tidak layak huni milik keluarga kurang mampu menjadi tempat tinggal yang aman dan nyaman, sekaligus menghadirkan kisah perjuangan dan harapan baru bagi penghuninya.</desc>
+	</programme>
+	<programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="MNCTVWorld">
+		<title lang="en">The One S1 E1</title>
+		<desc lang="en">Salah satu anggota tim SMBG tiba-tiba keluar dari tim seminggu sebelum pendaftaran liga profesional Fights of Legend ditutup. Robin dan anggota SMBG (ZEE, ABBY, SACHA, ODRIE) pun bergegas mencari anggota baru. Hingga akhirnya Robin menemukan pengganti untuk timnya, yaitu Bara, mantan pro player yang pernah dituduh melakukan kecurangan dalam pertandingan.</desc>
+	</programme>
+	<programme start="20261111033000 +0000" stop="20261111051500 +0000" channel="MNCTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
 	</programme>
 	<programme start="20261111051500 +0000" stop="20261111054500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Lintas iNews Siang</title>
+		<desc lang="en">Program berita yang tayang tiap siang hari, menyampaikan fakta apa adanya, tanpa rekayasa, serta menyajikan berita-berita tekini dan teraktual.</desc>
 	</programme>
 	<programme start="20261111054500 +0000" stop="20261111061500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Seleb On News</title>
+		<desc lang="en">Program infotainment yang memberitakan informasi dan rumor terkini seputar selebriti Indonesia.</desc>
 	</programme>
-	<programme start="20261111061500 +0000" stop="20261111073000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111061500 +0000" stop="20261111070000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E3</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261111073000 +0000" stop="20261111090000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111070000 +0000" stop="20261111074500 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E4</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261111090000 +0000" stop="20261111110000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111074500 +0000" stop="20261111083000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E5</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111083000 +0000" stop="20261111091500 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E6</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111091500 +0000" stop="20261111100000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E7</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261111130000 +0000" stop="20261111160000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="MNCTVWorld">
+		<title lang="en">Culture Shock S1 E1</title>
+		<desc lang="en">Riko, seorang remaja asal Muara Enim, dikutuk untuk tetap selibat hingga usia 30 tahun. Hidupnya berjalan lancar sampai ia pindah ke Jakarta dengan beasiswa, di mana berbagai godaan tanpa henti membuatnya putus asa. Bersama temannya, Frans, Riko mencari jawaban dan cara untuk membebaskan diri.</desc>
+	</programme>
+	<programme start="20261111103000 +0000" stop="20261111113000 +0000" channel="MNCTVWorld">
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
+	</programme>
+	<programme start="20261111113000 +0000" stop="20261111123000 +0000" channel="MNCTVWorld">
+		<title lang="en">Bedah Rumah Lagi S4 E1</title>
+		<desc lang="en">Bedah Rumah Lagi adalah program televisi yang mengubah rumah tidak layak huni milik keluarga kurang mampu menjadi tempat tinggal yang aman dan nyaman, sekaligus menghadirkan kisah perjuangan dan harapan baru bagi penghuninya.</desc>
+	</programme>
+	<programme start="20261111123000 +0000" stop="20261111160000 +0000" channel="MNCTVWorld">
+		<title lang="en">Liga Hipdut: DMD Panggung...</title>
+		<desc lang="en">Liga DMD Panggung Rezeki menghadirkan kembali para juara DMD sebelumnya ke atas panggung untuk bersaing memperebutkan gelar juara tertinggi. Dipandu oleh Irfan Hakim, acara ini menyuguhkan penampilan dangdut yang meriah, jajaran juri dari kalangan selebritas, serta kisah-kisah inspiratif dari para kontestan.</desc>
 	</programme>
 	<programme start="20261111160000 +0000" stop="20261111190000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Suparman Reborn</title>
+		<desc lang="en">Bercerita tentang Ayat (Epy Kusnandar) yang balik ke kampung dan putranya, Suparman (Damar Rizal Marzuki) yang selalu sigap membantu masyarakat-</desc>
 	</programme>
 	<programme start="20261111190000 +0000" stop="20261111230000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Suparman Reborn</title>
+		<desc lang="en">Bercerita tentang Ayat (Epy Kusnandar) yang balik ke kampung dan putranya, Suparman (Damar Rizal Marzuki) yang selalu sigap membantu masyarakat-</desc>
 	</programme>
 	<programme start="20261111230000 +0000" stop="20261111231500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Roy &amp; Marten Sahabat Sehidup Semati S1 E2</title>
+		<desc lang="en">Usaha Roy untuk menemui arwah sang ayah terbentur masalah. Roy memutuskan untuk menutup mata batinnya lagi. Sayangnya, di hari ke tujuh, Marten meninggal dunia sebelum mengangkat kemampuan mata batinnya Roy dan dia pun harus hidup dengan mata batin yang terus terbuka.</desc>
 	</programme>
-	<programme start="20261111231500 +0000" stop="20261112000000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261111231500 +0000" stop="20261111234500 +0000" channel="MNCTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
+	</programme>
+	<programme start="20261111234500 +0000" stop="20261112000000 +0000" channel="MNCTVWorld">
+		<title lang="en">Piknik Pesona S1 E1</title>
+		<desc lang="en">Gina (Shenina Cinnamon) dan Mutia (Fathia Izzati) adalah dua sahabat yang mencari keberadaan Celuluk, sosok makhluk halus yang biasanya tinggal di pohon pepaya atau gedang renteng. Gina memandu prosesi pemanggilan Celuluk sambil bersenda gurau, hingga akhirnya ia dihadapkan pada situasi yang tak terduga.</desc>
 	</programme>
 	<programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">4 Anak Rantau - Salam Kenal Ibukota</title>
+		<desc lang="en">Serial ini mengisahkan empat pemuda yang merantau ke Jakarta demi mengejar cita-cita. Mereka tinggal bersama di sebuah kosan dan menghadapi berbagai tantangan hidup di ibu kota.</desc>
 	</programme>
-	<programme start="20261112010000 +0000" stop="20261112040000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="MNCTVWorld">
+		<title lang="en">Uang Kaget Lagi S1 E14</title>
+		<desc lang="en">Uang Kaget Lagi merupakan program lama yang dikemas dengan konsep yang baru, menampilkan para crazy rich people yang akan menguji kebaikan seseorang sebelum memberikan mereka sejumlah uang yang harus mereka habiskan.</desc>
 	</programme>
-	<programme start="20261112040000 +0000" stop="20261112051500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="MNCTVWorld">
+		<title lang="en">Bedah Rumah Lagi S4 E2</title>
+		<desc lang="en">Bedah Rumah Lagi adalah program televisi yang mengubah rumah tidak layak huni milik keluarga kurang mampu menjadi tempat tinggal yang aman dan nyaman, sekaligus menghadirkan kisah perjuangan dan harapan baru bagi penghuninya.</desc>
+	</programme>
+	<programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="MNCTVWorld">
+		<title lang="en">The One S1 E2</title>
+		<desc lang="en">Terjadi perpecahan di antara anggota SMBG: apakah mereka harus menerima Bara atau tidak? Sacha menengahi perdebatan tersebut dengan membujuk anggota tim agar menerima Bara. Setelah diyakinkan oleh Robin, Bara bersedia bergabung kembali dengan tim SMBG. Namun, tim SMBG belum sepenuhnya bersatu, terlebih setelah mereka menerima kabar bahwa pendaftaran mereka untuk liga profesional ditolak.</desc>
+	</programme>
+	<programme start="20261112033000 +0000" stop="20261112051500 +0000" channel="MNCTVWorld">
+		<title lang="en">Kiko</title>
+		<desc lang="en">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
 	</programme>
 	<programme start="20261112051500 +0000" stop="20261112054500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Lintas iNews Siang</title>
+		<desc lang="en">Program berita yang tayang tiap siang hari, menyampaikan fakta apa adanya, tanpa rekayasa, serta menyajikan berita-berita tekini dan teraktual.</desc>
 	</programme>
 	<programme start="20261112054500 +0000" stop="20261112061500 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Seleb On News</title>
+		<desc lang="en">Program infotainment yang memberitakan informasi dan rumor terkini seputar selebriti Indonesia.</desc>
 	</programme>
-	<programme start="20261112061500 +0000" stop="20261112073000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112061500 +0000" stop="20261112070000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E8</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261112073000 +0000" stop="20261112090000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112070000 +0000" stop="20261112074500 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E9</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261112090000 +0000" stop="20261112110000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112074500 +0000" stop="20261112083000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E10</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112083000 +0000" stop="20261112091500 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E11</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112091500 +0000" stop="20261112100000 +0000" channel="MNCTVWorld">
+		<title lang="en">Ada Dewa Disisiku S1 E12</title>
+		<desc lang="en">BARA adalah putra dewa langit, NARENDRA, yang merupakan dewa terkuat di antara para dewa. Tumbuh sebagai penerus ayahnya, Bara menjadi sangat sombong dan membuat kekacauan di dunia para dewa. Sebagai hukuman, Narendra mengirim Bara ke Bumi dan memberinya tugas untuk membantu menyelesaikan masalah Melati.</desc>
 	</programme>
-	<programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+	<programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="MNCTVWorld">
+		<title lang="en">CinLock S1 E1</title>
+		<desc lang="en">Lala diam-diam mengubah jurusan kuliahnya untuk menjadi seorang produser film, dengan tujuan memenangkan Festival Film Saskara yang bergengsi dan akan segera datang. Untuk mencapainya, Lala mencari jalan agar bisa bergabung dengan tim senior yang dipimpin oleh Reyhan, yang ia kagumi.</desc>
+	</programme>
+	<programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="MNCTVWorld">
+		<title lang="en">Entong</title>
+		<desc lang="en">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
+	</programme>
+	<programme start="20261112113000 +0000" stop="20261112123000 +0000" channel="MNCTVWorld">
+		<title lang="en">Bedah Rumah Lagi S4 E2</title>
+		<desc lang="en">Bedah Rumah Lagi adalah program televisi yang mengubah rumah tidak layak huni milik keluarga kurang mampu menjadi tempat tinggal yang aman dan nyaman, sekaligus menghadirkan kisah perjuangan dan harapan baru bagi penghuninya.</desc>
+	</programme>
+	<programme start="20261112123000 +0000" stop="20261112160000 +0000" channel="MNCTVWorld">
+		<title lang="en">Liga Hipdut: DMD Panggung...</title>
+		<desc lang="en">Liga DMD Panggung Rezeki menghadirkan kembali para juara DMD sebelumnya ke atas panggung untuk bersaing memperebutkan gelar juara tertinggi. Dipandu oleh Irfan Hakim, acara ini menyuguhkan penampilan dangdut yang meriah, jajaran juri dari kalangan selebritas, serta kisah-kisah inspiratif dari para kontestan.</desc>
 	</programme>
 	<programme start="20261112160000 +0000" stop="20261112190000 +0000" channel="MNCTVWorld">
-		<title lang="en">MNCTV World</title>
-		<desc lang="en">MNCTV World, saluran televisi dari MNC Group, yang menyediakan siaran langsung dan konten eksklusif dari saluran-saluran televisi milik MNC Media, termasuk RCTI, MNCTV, GTV, dan iNews.</desc>
+		<title lang="en">Suparman Reborn</title>
+		<desc lang="en">Bercerita tentang Ayat (Epy Kusnandar) yang balik ke kampung dan putranya, Suparman (Damar Rizal Marzuki) yang selalu sigap membantu masyarakat-</desc>
 	</programme>
 	<programme start="20261112190000 +0000" stop="20261112220000 +0000" channel="MNCTVWorld">
 		<title lang="en">MNCTV World</title>
@@ -27806,10 +27869,6 @@
 		<title lang="en">NEW KELUARGA SOMAT</title>
 		<desc lang="en">IKUTI PETUALANGAN SERU KELUARGA PAK SOMAT SAAT MEMULAI HIDUP BARU DI CITEKO! DARI MEMBANGUN WARUNG IMPIAN BU INAH, KEHEBOHAN BERTETANGGA DENGAN CEU KOKOM, HINGGA PERJUANGAN PAK SOMAT MENJADI OJEK ONLINE DEMI KELUARGA. KISAH HANGAT PENUH TAWA DAN PESAN MORAL YANG COCOK UNTUK SEMUA UMUR.</desc>
 	</programme>
-	<programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="MentariTV">
-		<title lang="en">BIOSKOP KELUARGA INDONESIA (PETUALANGAN SI HAKKA KECIL DI DUNIA AJAIB)</title>
-		<desc lang="en">LITTLE HAKKA MENCERITAKAN TENTANG ANAK-ANAK DAN ALAM. AH LIANG DAN AMEI, DUA SAUDARI HAKKA YANG TINGGAL DI KOTA CHIZHU, LINGNAN, MENEMUKAN SEEKOR BANGAU YANG TERLUKA DI LERENG KEBUN LEBAH MILIK PAMAN MAN, DAN MEMUTUSKAN UNTUK MENYELAMATKANNYA. SELAMA PROSES PENYELAMATAN YANG MENDEBARKAN, ANAK-ANAK ITU SECARA TIDAK SENGAJA MENEMUKAN RAHASIA SERIBU TAHUN LELUHUR HAKKA DAN BINATANG HUTAN.</desc>
-	</programme>
 	<programme start="20261110140000 +0000" stop="20261110153000 +0000" channel="MentariTV">
 		<title lang="en">POKEMON SEASON 27 HORIZON SEASON 2</title>
 		<desc lang="en">LIKO, ROY, DAN DOT BERGABUNG DENGAN AKADEMI NARANJA UNTUK MENGIKUTI PELATIHAN TERA TRAINING, DI MANA MEREKA HARUS MENGHADAPI BERBAGAI GYM LEADER. SELAMA PERJALANAN, MEREKA BERTEMU DENGAN TEMAN LAMA, RIVAL BARU, SERTA MENGHADAPI ANCAMAN DARI KELOMPOK EXPLORERS YANG MENGINCAR RAHASIA TERAPAGOS. SEMENTARA MEREKA MENGASAH KEKUATAN TERASTAL, MEREKA JUGA HARUS MENGHADAPI TANTANGAN TURNAMEN DAN SERANGAN MENDADAK DARI MUSUH.</desc>
@@ -28063,10 +28122,6 @@
 		<title lang="en">TERCYDUK</title>
 		<desc lang="en">Setiap episode menyoroti reaksi spontan, aksi kocak, hingga situasi unik yang membuat penonton terhibur sekaligus merasa dekat dengan realitas kehidupan.</desc>
 	</programme>
-	<programme start="20261110092041 +0000" stop="20261110120352 +0000" channel="Moji">
-		<title lang="en">PRINCESS CUP 2026</title>
-		<desc lang="en">Princess Cup 2026 mempertemukan tim-tim bola voli putri U18 berbakat dalam persaingan memperebutkan gelar juara. Thailand memiliki keuntungan sebagai tuan rumah, sementara tim-tim Asia Tenggara lainnya mengandalkan kemampuan serangan, pertahanan, dan strategi untuk meraih gelar.</desc>
-	</programme>
 	<programme start="20261110120352 +0000" stop="20261110142152 +0000" channel="Moji">
 		<title lang="en">VNL 2026</title>
 		<desc lang="en">Nikmati pertandingan penuh semangat, strategi, dan aksi spektakuler saat para pemain bersaing memperebutkan kemenangan dan gelar juara.</desc>
@@ -28211,10 +28266,6 @@
 		<title lang="en">Merangkai Kisah Indah</title>
 		<desc lang="en">Setiap episode menampilkan kisah nyata maupun fiksi yang mengajarkan nilai-nilai kebaikan, cinta, dan persahabatan, mengajak penonton untuk merenung dan menghargai setiap momen indah dalam hidup.</desc>
 	</programme>
-	<programme start="20261110010000 +0000" stop="20261110030000 +0000" channel="Indosiar">
-		<title lang="en">Ada Racun Dibalik Cinta</title>
-		<desc lang="en">Ferdi mencintai Iren dengan tulus walau ia dibesarkan di panti asuhan. Namun hal tersebut justru menjadi masalah bagi mertuanya. Karena latar belakangnya, Iren kerap kali dijadikan kambing hitam oleh mertuanya sendiri.</desc>
-	</programme>
 	<programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="Indosiar">
 		<title lang="en">Kiss Pagi</title>
 		<desc lang="en">Kiss Pagi adalah sebuah program acara televisi hiburan dan infotainment yang pernah tayang di stasiun Indosiar.</desc>
@@ -28227,18 +28278,6 @@
 		<title lang="en">Fokus Siang</title>
 		<desc lang="en">Setiap episode menghadirkan laporan mendalam mengenai politik, ekonomi, sosial, dan peristiwa penting lainnya, lengkap dengan analisis dari pakar.</desc>
 	</programme>
-	<programme start="20261110050000 +0000" stop="20261110063000 +0000" channel="Indosiar">
-		<title lang="en">Istri Gemar Oplas, Pernikahan...</title>
-		<desc lang="en">Sejak awal Tania (Cerelia Raissa) tidak pernah suka dengan Lina (Puspita Sarry) ibu sambungnya. Lantaran selalu sibuk dengan dirinya sendiri, bahkan selalu oplas wajah supaya terlihat lebih muda dan cantik. Konflik semakin kompleks ketika suaminya, Doni (Yogie Tan) tergoda oleh Lina.</desc>
-	</programme>
-	<programme start="20261110063000 +0000" stop="20261110080000 +0000" channel="Indosiar">
-		<title lang="en">Rahasia Dibalik Perjodohanku</title>
-		<desc lang="en">Olive (Isel Fricella) harus rela menerima perjodohan dengan Rio (Indra Brotolaras) dari bapak sambungnya, untuk menggantikan posisi Nila (Fiona Fachru Nisa). Lantaran Nila terbaring koma karena sebuah insiden. Oleh sebab itu, Olive menerima perjodohan tersebut untuk bisa mengungkap sebuah masalah yang besar.</desc>
-	</programme>
-	<programme start="20261110080000 +0000" stop="20261110100000 +0000" channel="Indosiar">
-		<title lang="en">Kenyataan Pahit Foto Bayi Usang</title>
-		<desc lang="en">selembar foto masa kecil lama yang kelihatannya sepele dan biasa saja. Namun, penemuan foto bayi usang tersebut justru menjadi pemantik awal dari mimpi buruk yang menyakitkan bagi kehidupannya.</desc>
-	</programme>
 	<programme start="20261110100000 +0000" stop="20261110120000 +0000" channel="Indosiar">
 		<title lang="en">Merangkai Kisah Indah</title>
 		<desc lang="en">Setiap episode menampilkan kisah nyata maupun fiksi yang mengajarkan nilai-nilai kebaikan, cinta, dan persahabatan, mengajak penonton untuk merenung dan menghargai setiap momen indah dalam hidup.</desc>
@@ -28250,14 +28289,6 @@
 	<programme start="20261110160000 +0000" stop="20261110183000 +0000" channel="Indosiar">
 		<title lang="en">Rob-B-Hood</title>
 		<desc lang="en">Thongs dan Octopus menerima pekerjaan dari pemilik kontrakan mereka: menculik seorang bayi. Tak lama kemudian, bayi itu membangkitkan perasaan kebapakan yang kuat dalam diri kedua penjahat tersebut, yang menyebabkan komplikasi ketika mereka harus menyerahkan bayi itu kepada kakeknya yang mungkin seorang bos geng gila.</desc>
-	</programme>
-	<programme start="20261110183000 +0000" stop="20261110210000 +0000" channel="Indosiar">
-		<title lang="en">Detective Chen</title>
-		<desc lang="en">Sebuah pembunuhan aneh terjadi di SMP St. Martin. He Manjun, putra Menteri Urusan Militer dan Politik, tewas secara misterius. Polisi Chen Hu menerima tugas untuk menyelidiki kebenaran kasus tersebut secara diam-diam di sekolah itu.</desc>
-	</programme>
-	<programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="Indosiar">
-		<title lang="en">Mujizat Masih Ada</title>
-		<desc lang="en">Mengangkat kisah-kisah yang sarat pesan moral dan keagamaan, sering kali berfokus pada keajaiban (mujizat) yang terjadi dalam kehidupan seseorang karena iman, doa, dan kebaikan hati.</desc>
 	</programme>
 	<programme start="20261110213000 +0000" stop="20261110230000 +0000" channel="Indosiar">
 		<title lang="en">Fokus Pagi</title>
@@ -28902,10 +28933,6 @@
 		<title lang="en">Bocah Petualang</title>
 		<desc lang="en">Program petualangan anak-anak dari beragam penjuru Nusantara yang memberikan pengenalan alam, kearifkan lokal dan budaya setempat sesuai tempat tinggal anak-anak.</desc>
 	</programme>
-	<programme start="20261110063000 +0000" stop="20261110071500 +0000" channel="Trans7">
-		<title lang="en">Garda Langit</title>
-		<desc lang="en">program spesial Garda Langit yang akan tayang pada 10 November 2026 di Trans7.</desc>
-	</programme>
 	<programme start="20261110071500 +0000" stop="20261110074500 +0000" channel="Trans7">
 		<title lang="en">Redaksi</title>
 		<desc lang="en">Program berita dan berbagai liputan peristiwa dari dalam dan luar negeri. Menghadirkan beragam informasi teraktual dari berbagai bidang, mulai dari politik, ekonomi, sosial, budaya hingga berita olahraga.</desc>
@@ -29234,10 +29261,6 @@
 		<title lang="en">Jaane Anjaane</title>
 		<desc lang="en">Reet, seorang jurnalis cerdas, dan Raghav yang temperamental, menikah melalui perjodohan berdasarkan adat ‘Aata Sata’ demi menjamin kebahagiaan saudara-saudara mereka. Hubungan mereka yang didasari kepentingan ini menghadapi lika-liku yang tak terduga.</desc>
 	</programme>
-	<programme start="20261110023000 +0000" stop="20261110060000 +0000" channel="ANTV">
-		<title lang="en">Commando 2: Black Money Trail</title>
-		<desc lang="en">Komando Karan memanfaatkan keahlian tempurnya untuk memberantas uang gelap yang telah diselundupkan ke bank-bank di luar negeri.</desc>
-	</programme>
 	<programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="ANTV">
 		<title lang="en">Jhanak</title>
 		<desc lang="en">After her mother’s death, Jhanak is forced to marry her cousin Arshi’s fiancé, Aniruddh, to escape her stalker, Tejas. Although Aniruddh and Arshi have been together for seven years, Jhanak enters their lives under distressing circumstances and begins working as a maid in the Bose household. While some family members treat her kindly, others constantly insult and belittle her.</desc>
@@ -29250,20 +29273,9 @@
 		<title lang="en">Naagin</title>
 		<desc lang="en">Seekor ular ajaib yang mampu berubah wujud memiliki kekuatan untuk menjadi manusia. Ia bisa menjadi siapa pun yang diinginkannya: seorang istri, seorang penggoda, seorang selir, atau seorang gadis yang terancam bahaya semua demi balas dendam.</desc>
 	</programme>
-	<programme start="20261110104500 +0000" stop="20261110131500 +0000" channel="ANTV">
-		<title lang="en">Berkelana</title>
-	</programme>
 	<programme start="20261110131500 +0000" stop="20261110143000 +0000" channel="ANTV">
 		<title lang="en">Alas Roban The Series</title>
 		<desc lang="en">Serial tersebut akan membawa kisah misteri, kehilangan, serta teror supranatural yang terjadi di jalur legendaris Alas Roban, Jawa Tengah. Alas Roban The Series mengangkat kisah perjuangan seorang ibu bernama Sita yang berusaha membesarkan putrinya, Gendis.</desc>
-	</programme>
-	<programme start="20261110143000 +0000" stop="20261110164500 +0000" channel="ANTV">
-		<title lang="en">Atas Boleh Bawah Boleh</title>
-		<desc lang="en">Dono, Kasino, Indro pergi berburu. Saat berburu, Dono pingsan dan dirawat oleh lurah setempat. Dono jatuh hati pada putri pak Lurah. Setelah tahu watak gadis itu, Dono menghindar lari dan terjadi kecelakaan lagi.</desc>
-	</programme>
-	<programme start="20261110164500 +0000" stop="20261110183000 +0000" channel="ANTV">
-		<title lang="en">The Raid</title>
-		<desc lang="en">Sebuah tim S.W.A.T. terjebak di sebuah rumah susun yang dikuasai oleh seorang bos mafia kejam beserta pasukan pembunuh dan preman-premannya.</desc>
 	</programme>
 	<programme start="20261110183000 +0000" stop="20261110193000 +0000" channel="ANTV">
 		<title lang="en">Garis Tangan</title>
@@ -29666,10 +29678,6 @@
 	<programme start="20261110040000 +0000" stop="20261110053000 +0000" channel="TVOne">
 		<title lang="en">Kabar Siang (L)</title>
 		<desc lang="en">Suguhan beragam berita siang dan laporan seputar perkembangan berbagai peristiwa terkini yang terjadi di Indonesia dan juga mancanegara.</desc>
-	</programme>
-	<programme start="20261110053000 +0000" stop="20261110070000 +0000" channel="TVOne">
-		<title lang="en">Damai Indonesiaku Spesial</title>
-		<desc lang="en">Program religi spesial yang menghadirkan tausiah dan refleksi keislaman bersama para ulama. Melalui kajian yang menyejukkan, pemirsa diajak memperkuat iman, memperdalam pemahaman agama, serta menerapkan nilai Islam dalam kehidupan sehari-hari.</desc>
 	</programme>
 	<programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="TVOne">
 		<title lang="en">Apa Kabar Indonesia Siang</title>
@@ -31066,10 +31074,6 @@
 	<programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="HITSNow">
 		<title lang="en">Sheriff Country S2, Ep 5</title>
 		<desc lang="en">Pada musim kedua, Sheriff Mickey Fox menghadapi ancaman kejahatan baru di Edgewater sekaligus kemunculan kembali ibunya yang telah lama menghilang. Di tengah penyelidikan berbahaya, Mickey harus menyeimbangkan tugasnya sebagai sheriff dengan konflik keluarga yang rumit.</desc>
-	</programme>
-	<programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="HITSNow">
-		<title lang="en">Fire Country S5, Ep 5 (Hits Now)</title>
-		<desc lang="en">Musim kelima mengikuti Bode dan tim Station 42 saat menghadapi berbagai situasi darurat di Edgewater. Musim ini dibuka dengan festival Founders’ Day yang berubah menjadi misi penyelamatan ketika lubang besar terbuka di bawah Main Street dan menjebak sejumlah warga.</desc>
 	</programme>
 	<programme start="20261110150000 +0000" stop="20261110153000 +0000" channel="HITSNow">
 		<title lang="en">Entertainment Tonight</title>
@@ -32821,9 +32825,6 @@
 	<programme start="20261110154500 +0000" stop="20261110155200 +0000" channel="Originals">
 		<title lang="en">4 Celebrities: Serial Cheaters</title>
 	</programme>
-	<programme start="20261110155200 +0000" stop="20261110172400 +0000" channel="Originals">
-		<title lang="en">Hostile Territory</title>
-	</programme>
 	<programme start="20261110172400 +0000" stop="20261110173400 +0000" channel="Originals">
 		<title lang="en">24 Hours With Sofia Carson</title>
 	</programme>
@@ -33124,14 +33125,6 @@
 	<programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="SCTV">
 		<title lang="en">Tiba-Tiba Kuis</title>
 	</programme>
-	<programme start="20261110010000 +0000" stop="20261110030000 +0000" channel="SCTV">
-		<title lang="en">Calon Pengantin Berduka</title>
-		<desc lang="en">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik.</desc>
-	</programme>
-	<programme start="20261110030000 +0000" stop="20261110050000 +0000" channel="SCTV">
-		<title lang="en">Senin Berubah Jadi Minggu...</title>
-		<desc lang="en">Aldi &amp; Siti berebut ketoprak. Saat berebut ketoprak tiba tiba hp mereka ketuker. Siti sering kali mendapatkan Rating buruk dari pelanggan ojek onlinenya sampai ia tidak bisa bekerja lagi. Sampai akhirnya Siti bekerja sebagai Personal Assistant dan ternyata bosnya adalah Aldi.</desc>
-	</programme>
 	<programme start="20261110050000 +0000" stop="20261110053000 +0000" channel="SCTV">
 		<title lang="en">Liputan 6 Siang (L)</title>
 		<desc lang="en">Program berita yang menyajikan kumpulan liputan aktual dari dalam dan luar negeri.</desc>
@@ -33154,14 +33147,6 @@
 	</programme>
 	<programme start="20261110143000 +0000" stop="20261110160000 +0000" channel="SCTV">
 		<title lang="en">Kesetiaan</title>
-		<desc lang="en">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik.</desc>
-	</programme>
-	<programme start="20261110160000 +0000" stop="20261110173000 +0000" channel="SCTV">
-		<title lang="en">Kepincut Cinta OB Handsome</title>
-		<desc lang="en">Karyo adalah seorang Office Boy yang beruntung. Dia berkesempatan untuk pergi sekolah ke luar negeri. Ketika Karyo tiba di bandara, ia bertemu dengan seorang wanita cantik yaitu adelia. Saat itu adel menabrak Karyo yang sedang berdiri menunggu jemputan. Sejak saat itu, Karyo mulai menyukai adel. Adelia adalah seorang gadis yang dulunya berpenampilan culu, menggunakan kacamata besar dengan rambut di kepang dua.</desc>
-	</programme>
-	<programme start="20261110173000 +0000" stop="20261110184500 +0000" channel="SCTV">
-		<title lang="en">Cinta (Nggak) Bikin Sial</title>
 		<desc lang="en">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik.</desc>
 	</programme>
 	<programme start="20261110184500 +0000" stop="20261110200000 +0000" channel="SCTV">
@@ -33347,21 +33332,9 @@
 		<title lang="en">House Of Wonder</title>
 		<desc lang="en">Dipandu dengan gaya yang menyenangkan dan penuh rasa ingin tahu, setiap episode menghadirkan inovasi desain rumah yang luar biasa sekaligus memberikan wawasan edukatif bagi seluruh keluarga.</desc>
 	</programme>
-	<programme start="20261110095100 +0000" stop="20261110114400 +0000" channel="BuddyStar">
-		<title lang="en">The Donkey King (Buddy Star)</title>
-		<desc lang="en">Ketika penguasa Kota Azad tiba-tiba mengundurkan diri dari takhta, seekor keledai yang sedang sial memenangkan pemilihan umum pertama negara tersebut dan dinobatkan sebagai Raja Keledai.</desc>
-	</programme>
-	<programme start="20261110114400 +0000" stop="20261110132600 +0000" channel="BuddyStar">
-		<title lang="en">First Dog (Buddy Star)</title>
-		<desc lang="en">Seorang anak asuh berteman dengan seekor anjing yang tersesat yang ternyata adalah milik Presiden Amerika Serikat. Anak laki-laki itu memutuskan untuk melarikan diri dari panti asuhan untuk mengembalikan anjing tersebut ke Gedung Putih.</desc>
-	</programme>
 	<programme start="20261110132600 +0000" stop="20261110150200 +0000" channel="BuddyStar">
 		<title lang="en">Space Racers</title>
 		<desc lang="en">Bergabunglah bersama para murid di Stardust Space Academy saat mereka menjalani berbagai misi untuk mempelajari fakta-fakta baru sambil bersenang-senang. Ditemani karakter-karakter yang menarik dan menyenangkan, termasuk pemimpin Space Racers dan Hawk.</desc>
-	</programme>
-	<programme start="20261110150200 +0000" stop="20261110164500 +0000" channel="BuddyStar">
-		<title lang="en">The Snow Queen (Buddy Star)</title>
-		<desc lang="en">Ketika Ratu Salju, peri yang kesepian dan kuat, menculik bocah laki-laki Kay, sahabatnya Gerda harus mengatasi banyak rintangan dalam perjalanan menyelamatkannya.</desc>
 	</programme>
 	<programme start="20261110164500 +0000" stop="20261110184400 +0000" channel="BuddyStar">
 		<title lang="en">Song Of The Sea</title>
@@ -33696,10 +33669,6 @@
 	<programme start="20261110165100 +0000" stop="20261110185800 +0000" channel="Superrix">
 		<title lang="en">Even Money</title>
 		<desc lang="en">Kecanduan judi menyatukan kisah tiga orang yang semula tak saling terkait, sekaligus menghancurkan kehidupan masing-masing dari mereka.</desc>
-	</programme>
-	<programme start="20261110185800 +0000" stop="20261110205400 +0000" channel="Superrix">
-		<title lang="en">Little Boy</title>
-		<desc lang="en">Seorang anak laki-laki berusia delapan tahun bersedia melakukan apa saja untuk mengakhiri Perang Dunia II agar ia dapat membawa pulang ayahnya.</desc>
 	</programme>
 	<programme start="20261110205400 +0000" stop="20261110225400 +0000" channel="Superrix">
 		<title lang="en">Blueback</title>
@@ -34172,14 +34141,6 @@
 	<programme start="20261110101500 +0000" stop="20261110120000 +0000" channel="HitsMovies">
 		<title lang="en">The Maltese Falcon</title>
 		<desc lang="en">Seorang detektif swasta terlibat dalam perburuan sebuah patung berharga tak ternilai setelah rekannya dibunuh dalam tugas pengintaian yang tampaknya biasa saja.</desc>
-	</programme>
-	<programme start="20261110120000 +0000" stop="20261110143000 +0000" channel="HitsMovies">
-		<title lang="en">The Perfect Storm (Hits Movies)</title>
-		<desc lang="en">Pola badai yang luar biasa dahsyat mengejutkan beberapa nelayan komersial dan menempatkan mereka dalam bahaya maut.</desc>
-	</programme>
-	<programme start="20261110143000 +0000" stop="20261110164500 +0000" channel="HitsMovies">
-		<title lang="en">The Frighteners (Hits Movies)</title>
-		<desc lang="en">Setelah kecelakaan mobil tragis yang merenggut nyawa istrinya, seorang pria menyadari bahwa ia bisa berkomunikasi dengan arwah, dan ia memanfaatkan kemampuan itu untuk menipu orang-orang. Namun, ketika roh jahat muncul, ia mungkin satu-satunya orang yang bisa mencegahnya membunuh orang hidup maupun orang mati.</desc>
 	</programme>
 	<programme start="20261110164500 +0000" stop="20261110190000 +0000" channel="HitsMovies">
 		<title lang="en">Meet The Fockers</title>
